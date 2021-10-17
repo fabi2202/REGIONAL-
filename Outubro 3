@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", RIT Europa
+https://r13---sn-8p8v-bg0k.googlevideo.com/videoplayback?expire=1634071204&ei=RJ5lYdOXCNqOobIPqKSt-Ao&ip=2804%3A431%3Ac7e6%3Ab10d%3A6043%3A9c2%3Ab2f5%3Ae8f2&id=mqJT4iqHdXw.1&itag=134&aitags=133%2C134%2C135%2C136%2C137%2C160&source=yt_live_broadcast&requiressl=yes&mh=7Z&mm=44%2C29&mn=sn-8p8v-bg0k%2Csn-bg07dnz7&ms=lva%2Crdu&mv=m&mvi=13&pcm2cms=yes&pl=48&initcwndbps=542500&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=eqiikN_I3oRbfJNPxfYfD-sG&gir=yes&mt=1634049399&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=6Ys64X6W7B_LtQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgUCdno-gKDNZak-dN4qVRDyTo4L9deoCqn28kmLpcKpYCIDRy2ydlT3WVRH6wXv8zY0RQgi_21to1zpv1F7N3nWXZ&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgCb6m8020Uv6_qpBXPx_MAc8vQGOxYC2IbSaHmuf7j2MCIGU72yS6jIk1vZpGebjJpTt8Fp6kgt5ALlKx38qzgYXX&alr=yes&cpn=J-FnB_lHxn035fBO&cver=1.20211006.1.0&headm=1&rn=1&rbuf=0
+#EXTINF:0 type="stream" channelId="-1", Perú Channel (Rio de Janeiro-RJ)
+https://stmv1.duvoxtv.com.br:443/novelaplz/novelaplz/chunklist_w977219138.m3u8
+#EXTINF:0 type="stream" channelId="-1", Giro TV News (Petrópolis-RJ)
+https://596639ebdd89b.streamlock.net:443/8096/8096/chunklist_w38591527.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV C Rio (Rio de Janeiro-RJ)
+http://206.189.110.55:8080/hls/live.stream.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Cidade 10/TV Brasil Web( Santana do Livramento-RS)
+https://edge-rj-01.eduplay.rnp.br:443/media/ocp(r(SOtSyQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE)m(kyMRVuhfTf2jk2bhk4oZVw)n(a(kLbutb9FljfAzjoWmXgS8Rnp6_GUlkq0)s(rRg)'a(T-aZqqGXTwBm6ZHJp3tHyyjZ)s(fvc)))s(t(eT8)b(6P9w9Nu8wcNIUaKqkTKqXRWNHWIhMz8mxUoA4mgo1tqnqVYwaZMCmldOaMbaZB0n33FR3ttihZ1JvOivSGdZIuhde-5ZIl_f4tK0pFaa_lpv5gVXuaKHBhpJxYHQpAySe8UfuTry1gihrKpUq-DVrvTLAVcN_NYL-OR5gME)'t(ccA)b(Q_39q61nTExyyL-LZijmcTvd7twmucXBiaA)))/live_720_index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Cidade Oeste (Mossoró-RN)
+http://209.222.17.241:5080/LiveApp/streams/872258137935361699746456.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Cidade Vede/SBT (
+https://stmv1.transmissaodigital.com:443/cidadeverdenovo/cidadeverdenovo/chunklist_w75676841.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rede América (Pouso Alegre-MG)
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/Co8FLWErkPwOU1znA2CSP8R39g54nEBo6njmfX3oHKnbXNMvQf7HZzvZc6KGGQ6n7bIRfNzwTRfKB3cSylKLIVjBtowAh-Nugn-KIl8CsEzcAKFhrwvwwDUVxqPObRSp7AsphoPd-jABQegwpcIcGRR3jzMBNCMXqYHuOeJPRJBrzj0Ho5nxMee0SS16ZOeHaTNHkNzYuoK7ZZRQctX7D6-d5UAFDqhbxaHgMZkbrrSSl7vbcPXwCJ_DRank848aBP7HfGDCgIUrRQmpXIvs08955aL9KDGExGTAQiB3GCmSycbR4ibW4NKAZSZbIWV5_b33884G-IzfLxFJbjjy984a1A7xkb6Kk3ArXI1eisyeCKAS9_SqcNl2XP2-cvVHd5Ws_xPDeoUmIsEoborG6_9PJp9qNRV63KpWgRIm2tA0drG5tTpRN-WcnfoSk7vEQDi67zbNT2-uUpCelyKlenjSLwhTc26QcRxdIw0pZwYqJgNKXYYK7sgJaJieEW_pv-MBfFnaL8NBWZ_Uy89CmwbhioUNvEhkeea974IkWUgnIxnESXCpD_c7qi85F9OUaNZDyVyVT4XmPYafejKkNXU7-akYWV7FkBV-z7x9MJxO8-CHql4bzef6LK3YymWPQquwwGWAPTMrEyi2g70vjz5Qfzo23Lr3oXrcZLN7IQHMhYcVbvXKPPXuCb8grkr63hBuDl74p2A3aZGKz5g5DV8n9bWVb3LfJyWpgqTpJ4aKsy7KPAay5Ign7fuR_IVmqiujk2SYVW2NeZDWqVe7OxJpPAWvVRf8Q7pld1bS4PZlTCISiJfX_F7JzI7xEpuunZaI9Om_qYmmqg4NNItgSPoJULZ0KPLr-WeMGGjBjGzOfRoMsKfPUzElsGvML9ZlIAEqCXVzLXdlc3QtMjCJAg.m3u8
+
+
 #EXTINF:0 type="stream" channelId="-1", TV CHANNEL NETWORK (São Paulo-SP)
 https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", MKK TV (São Paulo-SP)
@@ -12,7 +30,7 @@ https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/chunklist_w175
 #EXTINF:0 type="stream" channelId="-1", TV Verdade
 https://r9---sn-8p8v-bg0k.googlevideo.com/videoplayback?expire=1633984005&ei=pUlkYeXVD4LFwgS6nam4Ag&ip=2804%3A431%3Ac7e6%3Ab10d%3A2cea%3Ad341%3Afe85%3A4bd&id=-t62fBLFGd8.1&itag=243&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=yt_live_broadcast&requiressl=yes&mh=hG&mm=44%2C29&mn=sn-8p8v-bg0k%2Csn-bg0ezn7e&ms=lva%2Crdu&mv=m&mvi=9&pcm2cms=yes&pl=48&initcwndbps=552500&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=mskcAR-gDBR4t_dI0mxSfi4G&gir=yes&mt=1633962037&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=QHCxMiPLahJbNQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgSt-qkVGY0UTqbeeqmMNRwekJ2mhQtErwupR0EifdtfICIFUfZJkJ_ZOHe0dmAo-x1A6tSLsVB7MCyrnH23UY3sg3&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgbExBzJ5xKx-hfI2MLzrEHuFr8MpTHhwPpATo2k16gI0CIQCWuP55NG9DT-t6xTfonwruvDrcMMyxLLSEe7HVFQ4mbg%3D%3D&alr=yes&cpn=_a0lFrIhQs3AX9ui&cver=1.20211006.1.0&sq=46281&rn=13&rbuf=4879
 #EXTINF:0 type="stream" channelId="-1", Rede Caxias (Duque de Caxias-RJ)
-https://stmv1.srvstm.com:443/luis5346/luis5346/chunklist_w1683926974.m3u8
+https://stmv1.srvstm.com:443/luis5346/luis5346chunklist_w1683926974.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Clone (Belém-PA)
 https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1944295461.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Encauca (Fortaleza-CE)
