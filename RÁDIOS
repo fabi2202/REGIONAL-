@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", Jovem Pan 100.9 FM (São Paulo-SP)
+https://playerservices.streamtheworld.com/api/livestream-redirect/JP_SP_FMAAC_SC
+#EXTINF:0 type="stream" channelId="-1", FM O DIA 100.5
+https://streaming.livespanel.com:20000/live
+#EXTINF:0 type="stream" channelId="-1", Rádio Nova  89.5 FM (Nova Friburgo / RJ)
+http://server2.webradios.com.br:9128/;
+#EXTINF:0 type="stream" channelId="-1", Rádio Cultura 103.3 FM (São Paulo / SP)
+https://radiocultura.jmvstream.com/stream
+#EXTINF:0 type="stream" channelId="-1", Rádio da Universidade 1080 AM (Porto Alegre / RS)
+http://143.54.213.50:8000/stream.mp3
+#EXTINF:0 type="stream" channelId="-1", Rádio MEC 99.3 FM (Rio de Janeiro / RJ)
+https://radio2.lflr.com.br/ebc-live/radio-mec-fm/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rádio Paulo Freire 820 AM (Recife / PE)
+https://orelha.radiolivre.org/radiopaulofreire
