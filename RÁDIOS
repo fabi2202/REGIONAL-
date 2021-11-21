@@ -13,3 +13,21 @@ http://143.54.213.50:8000/stream.mp3
 https://radio2.lflr.com.br/ebc-live/radio-mec-fm/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rádio Paulo Freire 820 AM (Recife / PE)
 https://orelha.radiolivre.org/radiopaulofreire
+#EXTINF:0 type="stream" channelId="-1", 96 FM 96.9 (Bauru/SP)
+https://streaming.ei3.com.br/radio/8000/mp3
+#EXTINF:0 type="stream" channelId="-1", Rádio UNESP 105.7FM (Bauru / SP)
+https://fm.unesp.br/unespfm.mp3
+#EXTINF:0 type="stream" channelId="-1", 94 FM 94.5 FM (Bauru/SP)
+https://centova.svdns.com.br:20148/stream
+#EXTINF:0 type="stream" channelId="-1", Rádio Record 1000 AM (São Paulo/SP)
+http://stm2.mestrestream.xyz:7098/stream
+#EXTINF:0 type="stream" channelId="-1", Nacional Amazônia Ondas Curtas 11.780 KHZ\\\\\\\\\, 6.180 KHZ (Manaus / AM)
+https://radio2.lflr.com.br/ebc-live/radio-nacional-amazonia/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rádio Antena 1  94.7 FM  (São Paulo / SP)
+https://antenaone.crossradio.com.br/stream/1;
+#EXTINF:0 type="stream" channelId="-1", Transamérica 100.1 FM (São Paulo / SP)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac
+#EXTINF:0 type="stream" channelId="-1", Rádio Difusora Acreana 1400 AM (Rio Branco / AC)
+http://streaming.omegasistemas.com.br:8722/stream
+#EXTINF:0 type="stream" channelId="-1", Rádio Alternativa  87.9FM (Acrelândia / AC)
+https://ssl.srvstm.com:7530/stream
