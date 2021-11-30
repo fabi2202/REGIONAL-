@@ -62,7 +62,7 @@ https://stream.amsolution.net.br:8443/live/60ce4e9b6adee/index.m3u8
 https://cdn.jmvstream.com/w/AVJ-9172/playlist/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Euronews
 https://stream-01.nyc.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa7U7VH0guqb1_uidwXhOw_E)/dm/3/x2j7lv2/s/live-3.m3u8#cell=lnyc
-#EXTINF:0 type="stream" channelId="-1", Item 3
+#EXTINF:0 type="stream" channelId="-1", TV Câmara (Campina Grande-PA)
 https://video01.kshost.com.br/ribamar1460/ribamar1460/playlist.m3u8?t=1636735115
 #EXTINF:0 type="stream" channelId="-1", WTJ Minas ( Belo Horizonte - MG)
 https://video01.kshost.com.br/wladimir4773/wladimir4773/playlist.m3u8?t=1636736084
