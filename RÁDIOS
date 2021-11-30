@@ -1,5 +1,17 @@
-#EXTM3U
-#EXTINF:0 type="stream" channelId="-1", Jovem Pan 100.9 FM (São Paulo-SP)
+# EXTM3U
+#EXTINF:0 type="stream" channelId="-1", Rádio Juruá 100.9FM (Cruzeiro do Sul / AC)
+http://r13.ciclano.io:8294/streamhttp://r13.ciclano.io:8294/stream
+#EXTINF:0 type="stream" channelId="-1", Rádio Gaúcha 93.7 FM (Porto Alegre / RS)
+https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Flash Disco Dance 80 (São Paulo / SP)
+https://ssl.ifantasy.com.br:6676/;
+#EXTINF:0 type="stream" channelId="-1", Rádio Globo 98.1 FM (Rio de Janeiro / RJ)
+http://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rádio Band 90.5 FM (Feira de Santana / BA)
+https://stream1.play.radio.br:8089/globofeira/globofeira/icecast.audio
+
+
+#EXTINF: 0 type = "stream" channelId = "- 1", Jovem Pan 100,9 FM (São Paulo-SP)
 https://playerservices.streamtheworld.com/api/livestream-redirect/JP_SP_FMAAC_SC
 #EXTINF:0 type="stream" channelId="-1", FM O DIA 100.5
 https://streaming.livespanel.com:20000/live
