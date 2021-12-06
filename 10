@@ -1,9 +1,6 @@
 #EXTM3U
 #EXTINF: 0 type = "stream" channelId = "- 1", Rede Web TV
 https://serv3.videovox.pw/alexandre8915/alexandre8915/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1", Loading (São Paulo-SP)
-https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3ps_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22pulsar%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22189.19.165.25%22%2C%22version%22%3A2%7D&warp=true
 #EXTINF: 0 type = "stream" channelId = "- 1", TV Assembleia Alagoas (Maceió-AL)
 https://5c483b9d1019c.streamlock.net/staffvideotv/staffvideotv/playlist.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", TV Assembleia Paraíba ((João Pessoa-PB)
@@ -60,8 +57,6 @@ https://cdn.jmvstream.com/w/LVW-8541/LVW8541_rYryTUoUlj/playlist.m3u8
 https://stream.amsolution.net.br:8443/live/60ce4e9b6adee/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Vale (Gravataí-RS)
 https://cdn.jmvstream.com/w/AVJ-9172/playlist/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Euronews
-https://stream-01.nyc.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa7U7VH0guqb1_uidwXhOw_E)/dm/3/x2j7lv2/s/live-3.m3u8#cell=lnyc
 #EXTINF:0 type="stream" channelId="-1", TV Câmara (Campina Grande-PA)
 https://video01.kshost.com.br/ribamar1460/ribamar1460/playlist.m3u8?t=1636735115
 #EXTINF:0 type="stream" channelId="-1", WTJ Minas ( Belo Horizonte - MG)
@@ -202,8 +197,6 @@ https://video01.kshost.com.br/tiago4725/tiago4725/playlist.m3u8
 https://stmv1.srvif.com:443/tvrevista/tvrevista/chunklist_w888281161.m3u8
 #EXTINF:0 type="stream" channelId="-1", C TV (Pernambuco
 https://5d2c98775bafe.streamlock.net:443/8020/8020/chunklist_w292008302.m3u8
-#EXTINF:0 type="stream" channelId="-1", Animestation 
-https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Master Show
 https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Master (João Pessoa-PB)
