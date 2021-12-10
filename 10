@@ -278,7 +278,7 @@ https://596639ebdd89b.streamlock.net:443/8096/8096/chunklist_w38591527.m3u8
 http://209.222.17.241:5080/LiveApp/streams/872258137935361699746456.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Cidade Vede/SBT (
 https://stmv1.transmissaodigital.com:443/cidadeverdenovo/cidadeverdenovo/chunklist_w75676841.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV CHANNEL            NETWORK (São Paulo-SP)
+#EXTINF:0 type="stream" channelId="-1", TV CHANNEL NETWORK (São Paulo-SP)
 https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", MKK TV (São Paulo-SP)
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
@@ -521,8 +521,6 @@ https://video02.kshost.com.br/sueli3485/sueli3485/playlist.m3u8
 https://live.comets.com.br:443/tvnovanordeste/aovivo/chunklist_w62906530.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nova Play (Rio de Janeiro-RJ)
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Nova TV Vale (Guaratinguetá-SP)
-https://5b7f3c45ab7c2.streamlock.net:443/8016/8016/chunklist_w1806710556.m3u8
 #EXTINF:0 type="stream" channelId="-1", POP TV
 https://59f1cbe63db89.streamlock.net:1443/redegostei/redegostei/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Portal Cultura (Belém -PA)
@@ -544,17 +542,17 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hBaG4Ce.png" group-title=" ",Terra Viva (São Paulo-SP
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAbertaSP.br" tvg-name="TV Aberta SP" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/1pZUGb4.png" group-title=" ",TV Aberta SP (1080p)
+#EXTINF:-1 tvg-id="TVAbertaSP.br" tvg-name="TV Aberta SP" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/1pZUGb4.png" group-title=" ",TV Aberta SP (1080p)
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://rd1.com.br/wp-content/uploads/2015/11/tv_aparecida.png" group-title=" ",TV Aparecida (Aparecida-SP)
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" tvg-country="" tvg-language="Portuguese" tvg-logo="https://rd1.com.br/wp-content/uploads/2015/11/tv_aparecida.png" group-title=" ",TV Aparecida (Aparecida-SP)
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBirigui.br" tvg-name="TV Birigui" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/cefSiod.jpg" group-title=" ",TV Birigui (Birigui-SP
+#EXTINF:-1 tvg-id="TVBirigui.br" tvg-name="TV Birigui" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/cefSiod.jpg" group-title=" ",TV Birigui (Birigui-SP
 https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBNO.br" tvg-name="TV BNO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ejp65zr.png" group-title=" ",TV BNO (Rio Branco-AC)
+#EXTINF:-1 tvg-id="TVBNO.br" tvg-name="TV BNO" tvg-country="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ejp65zr.png" group-title=" ",TV BNO (Rio Branco-AC)
 http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
-#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png" group-title=" ",TV Brasil (Brasília-DF)
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" tvg-country="" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png" group-title=" ",TV Brasil (Brasília-DF)
 https://edge-df-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(Dxg)k(Qdk)m(naXbjbTlDxrHlrlxKSNzig)n(a(3LDBWxJLACwHVOavx5cO4BC5lA2ZDpPC)s(HrY)'a(12ztgSdgu3rQqz6xH52ZjVZa)s(Pm8)))s(t(aTo)b(PTsuEXhXAScNjp6w9ssG70foQQQiZk9_8m0vsjgLJ_yzxGPuj8i57PEDMMA4cmTNsKda2B5oX-EEErouZ1HFyuG_AaUF86vlMJtsMkooySBOlQbVM33PgsYPQdea2BJafjjc-BWtPRlStfmQ939PXcd844pid2JY82J6JDM)'t(S2o)b(WaBWYarWoWCInKe38WSze3Q_-kYcqZf8MZQ)))/index.m3u8
-#EXTINF:-1 tvg-id="saopaulo.sp.leg.br" tvg-name="tvcamarasp" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/e8zZuyq.jpg" group-title=" ",TV Camara de Sao Paulo 
+#EXTINF:-1 tvg-id="saopaulo.sp.leg.br" tvg-name="tvcamarasp" tvg-country="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/e8zZuyq.jpg" group-title=" ",TV Camara de Sao Paulo 
 https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCapitalLucelia.br" tvg-name="TV Capital Lucelia" tvg-country="BR" tvg-language="" tvg-logo="" group-title=" ",TV Capital (Lucelia -SP)
 http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8
