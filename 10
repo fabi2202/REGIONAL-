@@ -1,6 +1,14 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1", Canal Olímpico do Brasil
-https://jsb1kmslnt.singularcdn.net.br:443/live/aa0c8110-72ce-4b5e-abc1-5aebf7a514a2/playlist-1080p.m3u8?s=1&sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Mzg5MjA0NzQsIm5iZiI6MTYzODkyMDM1NCwiZXhwIjoxNjM4OTU2NDc0LCJpc3MiOiJqc2Ixa21zbG50LnNpbmd1bGFyY2RuLm5ldC5iciIsInVyaV9zdWIiOiIvbGl2ZS9hYTBjODExMC03MmNlLTRiNWUtYWJjMS01YWViZjdhNTE0YTIvIiwiZGluYW1pY28iOjEsImp0aSI6ImFhMGM4MTEwLTcyY2UtNGI1ZS1hYmMxLTVhZWJmN2E1MTRhMi02NDU4NTciLCJjbGllbnRlIjoiMTg5LjY4LjgxLjU3In0.hGfnoX7ceoW_agOna6XLlUaR_X0RRGf8fjpKUSpLe14
+#EXTINF:0 type="stream" channelId="-1", Nova TV Vale (Guaratinguetá-SP)
+https://5b7f3c45ab7c2.streamlock.net:443/8016/8016/playlist.m3u8?DVR
+#EXTINF:0 type="stream" channelId="-1", TV Legislativa  (Blumenau-SC)
+https://streaming.camarablu.sc.gov.br:8080/hls/cmb_360/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Liberdade (Bagé-RS)
+https://video02.kshost.com.br/eberson8801/eberson8801/playlist.m3u8?t=1639171470
+#EXTINF:0 type="stream" channelId="-1", TV Liberdade
+https://stmv1.srvif.com/washington/washington/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Liberdade 
+https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Loading (São Paulo-SP)
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", Rede Web TV
