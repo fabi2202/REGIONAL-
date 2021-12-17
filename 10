@@ -1,4 +1,6 @@
-#EXTM3U
+# EXTM3U
+#EXTINF: 0 type = "stream" channelId = "- 1", TV Pernambuco 
+https://www.dailymotion.com/cdn/live/video/x83gdzr.m3u8?sec=VHH5OMa2BQPsDtfXsc19ZJ0njdKPkDuhiy-4OAKAscUjBTCEKhbqCTjDXR5wpe8bqvCnq2nHt7TqAD6yw_22Kg&dmTs=976545&dmV1st=2635F7956314D3774F273839874B18E9
 #EXTINF:0 type="stream" channelId="-1", Nova TV Vale (Guaratinguetá-SP)
 https://5b7f3c45ab7c2.streamlock.net:443/8016/8016/playlist.m3u8?DVR
 #EXTINF:0 type="stream" channelId="-1", TV Legislativa  (Blumenau-SC)
