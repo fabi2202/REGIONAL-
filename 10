@@ -1,8 +1,12 @@
 # EXTM3U
-#EXTINF: 0 type = "stream" channelId = "- 1", NGT?
+#EXTINF: 0 type = "stream" channelId = "- 1", Rede América (Pouso Alegre-MG)
+https: //video-weaver.sao01.hls.ttvnw.net / v1 / lista de reprodução / CpwFHnDL6-xu_vb8ulS2aiPj0TtYsmousNC9b9lnb0wd_JJKuzWhilJLHQxNdl4AgPKioXc0Z3Nb53VKMS1eDMat16o_BOObaobWCcjSMYC1KZjo22axG7aZ6D_KSvNuMMiG38kNAd-IFsJM6XK38GxH9R8jClylgx_yNLO4ERSG9wjxb2V7ekFT79SKyCaz6r2GG59jc-8o9TatfkAjbYKeTnpuH4rlJwyt3l5fssPA3NDO0m9ulrZ9g6lFvJlQwHo4ZgDNcClzwRqvH4Zfol0Xz_DjlfOoox5TOZOrfz6vCNcQLdpoDVlB0kZV0jpCCVzFNeGw8_gUXAPoxAXsxJujP4wIr4TPLeGVZfaX69cpacXSSROX8e7t7Ba76f2QLsVaiADZAhhgHBuJ9XSAOvzUGADTBXXmCF3foaIUOhHqVG00oDSUfZgXHBiy_AT0C_H0qvJrG3nWHl57dBfCfpbz0P2ffpDxnJp41UHiDNX9IsRxOtLIiPT - VTVZi98aGsRth0c5V9x5nqqcOEYtuYERDnVog4a5Q6shTV2bbXoiigT-ko6jzsZmQfvrVyW_gPtD13JXtj1KZqsXKBacmSdHg0cwCXWRvKh-1sBd-l4zstKHMDO9ma9DDHWB45fHJn23CxfVG5hFFwcgq52ygA0U7BpKRrI7QfiwLvz9q25wFem26R4Z420jQiZmxC5bQoLiDMmmvuIclZHWSUAkfr_41eDq6-hQHjH-L-fKS3eRzAHWqqoJsQrUFdeMoBt0dwhWygqRENKQBUcjhyuFhtGoih1qdpWhZ-2Gmnqf_ME98RhvknVofGh4qh0xoFoL96_y07lPSHukGeYOwbj50vSEdOeF9-x1PgjlkBpLMZlzjyselDE5wn6NHHGgJgaDIk_2q6WG5DzPbbXpSABKgl1cy1lYXN0LTIwxwI.m3u8
+#EXTINF: 0 type = "stream" channelId = "- 1", TV Pernambuco 
+https://www.dailymotion.com/cdn/live/video/x83gdzr.m3u8?sec=VHH5OMa2BQPsDtfXsc19ZIzgeFvQwGW14n2kzksOpuVIxylqtaIpAwNloXq9e_LcIf6TGZFJtbtPjfIJG4zk-w&dmTs=976545&dmV1st=2635F7956314D3774F273839874B18E9
+#EXTINF: 0 type = "stream" channelId = "- 1", REDE NGT
 https://cdn.jmvstream.com:443/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/chunklist_b3128000.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", TV Pern
-https://www.dailymotion.com/cdn/live/video/x83gdzr.m3u8?sec=VHH5OMa2BQPsDtfXsc19ZH3t057InCPOl79oYXTS85vh8-VcFfbnWBkFemGXgmObk_ebJ_brFhLLcZ2AkA1_9g&dmTs=976545&dmV1st=2635F7956314D3774F273839874B18E9
+https://www.dailymotion.com/cdn/live/video/x83gdzr.8?sec=VHH5OMa2BQPsDtfXsc19ZH3t057InCPOl79oYXTS85vh8-VcFfbnWBkFemGXgmObk_ebJ_brFhLLcZ2AkA1_9g&dmTs=976545&dmV1st=2635F795
 #EXTINF:0 type="stream" channelId="-1", Nova TV Vale (Guaratinguetá-SP)
 https://5b7f3c45ab7c2.streamlock.net:443/8016/8016/playlist.m3u8?DVR
 #EXTINF:0 type="stream" channelId="-1", TV Legislativa  (Blumenau-SC)
