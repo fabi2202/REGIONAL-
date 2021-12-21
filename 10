@@ -1,7 +1,6 @@
-# EXTM3U
-#EXTINF: 0 type = "stream" channelId = "- 1", Rede América (Pouso Alegre-MG)
-https: //video-weaver.sao01.hls.ttvnw.net / v1 / lista de reprodução / CpwFaeAikmcdORO1jCoTf_i_o_mCJe9sKVaEtQy_N0XOf5Eb9u9gmYwRMMRgUzw70Mwi0DDzlYl0YSW2VckBEDk3Co8am27lpHjeD424Tfvub_HuThgoOepa7Qx-yZDVo6aHyKP1l3EeZARmUDI2I3CP9Acp1yid6mhiApGX3XQRHqnt644M1GC5TjIxdRRRr8SbnNNLQPao9F6-mwHOqIPmBdmXN5DWHcKkXe7 - r8pa8a63A2W1L1rlowt6SA2BCxtI_RTWKatR8_thSSu0BhCAfVMkSm0KMgw8azL_aMCUeUV8lP52xU9WwVremnslsSbpUm9-3IP35-9VnwWhrJ0ExTzrmNu3wofJmsnp_ZHNApgVd9fT9RqRykNbKU8z66kN05MZe69lyATOnN9C9S8SIg2eRvrKfKXLOCLO7mTSlbSqA-JGc3iTxRx9I-wDNXm3JlzETUBd4grCucpIwfBdC0Howr78saI24_kyfUrhLZ_PM8x7r_qAnYuapS6z73Dv1XCDJG5TftqzMv-WzSdXejEphOVbQD8TzpuY6_5CDUzSIPa4MhYi_8E3ue5wwq7JZ3xgw7cza5uKg5TdiUkgOIDGHdqLfxApsFN1mxSEweS0BRa0f-ibhxp3aofjeixXwhSgMxUwfUNtqOeJe_XOlTEFDGbnIxT_RLf8HBvk1EYiF46NcTM9T_1phRkvOgGsMcxzk5-FCtHrvZSw9Vn7SK9DgalFjqZzlMaG60nSuVZvhLxad5w8bTxvf5il1V551t3_DV4CXW2dBC9TqiWOjM_lmJhHEg4tgpKO1Vr41ACaR6_s_EhoJ8ri77iJyMyFBrcmot8aQnbj8I4BKOKIeyD0NZkbATTAj-hk2iBRhHwNDqFHuxmS7i-Tl4aDLfb78KvGBommi6j4iABKgl1cy1lYXN0LTIwyAI.m3u8
-
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", TV Horizonte 
+m.youtube.com/watch?v=Mxr5AZIXN5I
 #EXTINF: 0 type = "stream" channelId = "- 1", REDE NGT
 https://cdn.jmvstream.com:443/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/chunklist_b3128000.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nova TV Vale (Guaratinguetá-SP)
