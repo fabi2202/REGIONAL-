@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Bahia
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Brasília
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Belo Horizonte
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Rio de Janeiro
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 
