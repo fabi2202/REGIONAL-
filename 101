@@ -1,8 +1,16 @@
-
-
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", TV Arapuan/RedeTV
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Paraense/SBT
+https://streaming.portaltvparaense.com.br:50176/rtp_live/tracks-v2a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rede NGT
+https://cdn.jmvstream.com:443/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/chunklist_b1596000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Deus Vivo TV (
+https://stmv1.srvif.com/antoniomarcosde5801/antoniomarcosde5801/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Black Sampa
+https://video02.kshost.com.br/cesar9428/cesar9428/playlist.m3u8?t=1641823222
 #EXTINF:0 type="stream" channelId="-1", CaraguÃ¡ TV
-https://cdn.jmvstream.com/w/AVJ-9779/playlist/playlist.m3u8
+https://cdn.jmvstream.com/w/AVJ-9779playlist/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Arapuan/RedeTV
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wBGFNXG.png" group-title="BRASIL", TELE WEB TV
