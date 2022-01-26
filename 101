@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Indefinido",RIT
+http://168.205.87.198:8555/live/leila/123456/168.ts?checkedby:iptvcat.com
 #EXTINF:0 type="stream" channelId="-1", TV Diversa/TV Brasil (
 https://hls.brasilstream.com.br/live/tvdiversa/tvdiversa/index.m3u8?token=5882573756041161000
 #EXTINF:0 type="stream" channelId="-1", AWTV (Porto Velho-RO)
