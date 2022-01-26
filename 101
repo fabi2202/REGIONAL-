@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", TV Diversa/TV Brasil (
+https://hls.brasilstream.com.br/live/tvdiversa/tvdiversa/index.m3u8?token=5882573756041161000
+#EXTINF:0 type="stream" channelId="-1", AWTV (Porto Velho-RO)
+https://cdn.jmvstream.com:443/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/chunklist_b2628000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Igreja CristÃ£ Maranata
+https://hls.brasilstream.com.br/live/redetv/redetv/index.m3u8?token=7371056516177287000
+#EXTINF:0 type="stream" channelId="-1", CONTV
+https://contvanime-plex-ingest.cinedigm.com:443/masterR720P.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Arapuan/RedeTV
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Paraense/SBT
