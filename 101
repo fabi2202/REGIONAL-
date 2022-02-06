@@ -7,7 +7,7 @@ http://168.205.87.198:8555/live/leila/123456/168.ts?checkedby:iptvcat.com
 https://hls.brasilstream.com.br/live/tvdiversa/tvdiversa/index.m3u8?token=5882573756041161000
 #EXTINF:0 type="stream" channelId="-1", AWTV (Porto Velho-RO)
 https://cdn.jmvstream.com:443/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/chunklist_b2628000.m3u8
-#EXTINF:0 type="stream" channelId="-1", Igreja CristÃ£ Maranata
+#EXTINF:0 type="stream" channelId="-1", RedeTV
 https://hls.brasilstream.com.br/live/redetv/redetv/index.m3u8?token=7371056516177287000
 #EXTINF:0 type="stream" channelId="-1", CONTV
 https://contvanime-plex-ingest.cinedigm.com:443/masterR720P.m3u8
@@ -17,7 +17,7 @@ https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
 https://streaming.portaltvparaense.com.br:50176/rtp_live/tracks-v2a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede NGT
 https://cdn.jmvstream.com:443/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/chunklist_b1596000.m3u8
-#EXTINF:0 type="stream" channelId="-1", Deus Vivo TV (
+#EXTINF:0 type="stream" channelId="-1", Deus Vivo TV 
 https://stmv1.srvif.com/antoniomarcosde5801/antoniomarcosde5801/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Black Sampa
 https://video02.kshost.com.br/cesar9428/cesar9428/playlist.m3u8?t=1641823222
@@ -54,8 +54,6 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/H0BKwdG.png" group-title="", MULTI RIO
 http://187.111.97.45:1935/webtv/webtv/playlist.m3u8
-#EXTINF: 0 type = "stream" channelId = "- 1", REDE NGT
-https://cdn.jmvstream.com:443/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/chunklist_b3128000.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nova TV Vale (Guaratinguetá-SP)
 https://5b7f3c45ab7c2.streamlock.net:443/8016/8016/playlist.m3u8?DVR
 #EXTINF:0 type="stream" channelId="-1", TV Legislativa  (Blumenau-SC)
@@ -353,7 +351,7 @@ https://stmv1.srvstm.com:443/luis5346/luis5346/chunklist_w1683926974.m3u8
 https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1944295461.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Encauca (Fortaleza-CE)
 https://srv1.painelvideo.com/encaucafm/encaucafm/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rede Genesis (
+#EXTINF:0 type="stream" channelId="-1", Rede Genesis 
 https://uhsakamai-a.akamaihd.net/sao01/sao01-uhs-omega01/live/23971225/1633886414041/plain/uhs/9/chunk_1633902016_bbb4966db6.m4a
 #EXTINF:0 type="stream" channelId="-1", Rede  Paulistana ( Americana-SP)
 https://596639ebdd89b.streamlock.net/8112/8112/playlist.m3u8
@@ -386,7 +384,7 @@ http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", TV Aracati (Fortaleza-CE)
 https://livefocamundo.com:8081/tvaracati/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV 3 ( Três Rios-RJ)
+#EXTINF:0 type="stream" channelId="-1", TV 3 (Três Rios-RJ)
 https://video01.logicahost.com.br:443/tv3tv/tv3tv/chunklist_w966765120.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal Ricos (São Paulo-SP)
 https://5d2c98775bafe.streamlock.net:443/8090/8090/chunklist_w1997000860.m3u8
@@ -468,8 +466,6 @@ https://cdn.jmvstream.com:443/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_b
 https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", ALL Sports (Brasilia-DF)
 https://5cf4a2c2512a2.streamlock.net:443/dgrau/dgrau/chunklist_w617757995.m3u8
-#EXTINF:0 type="stream" channelId="-1", AWTV (São Paulo-SP)
-https://cdn.jmvstream.com:443/w/AVJ-9086/playlist/chunklist.m3u8
 8#EXTINF:0 type="stream" channelId="-1", Animax Brasil (Nazário-GO)
 https://stmv1.samcast.com.br/muriloevangelistadearaujo2973/muriloevangelistadearaujo2973/playlplaylist.m3u8ghNF:0 type="stream" channelId="-1", AWC Channel (São Paulo-SP)
 https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
