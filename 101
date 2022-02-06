@@ -1,5 +1,18 @@
-
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", SulamÃ©rica TV
+https://stmv1.voxtvhd.com.br/redesulamericatv/redesulamericatv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Extremo Oriental TV
+https://alanza.iptv2022.com:443/XTREMO_ORIENTAL/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Planeta Turismo
+https://cast2.cdnseguro.com/andremalkut/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV BRICS
+https://porbrics.mediacdn.ru:443/cdn/brics/portuguese/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", Fandon TV
+https://alanza.iptv2022.com/Fandom_TV/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", CLC
+https://alanza.iptv2022.com:443/CLC/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Educar
+https://alanza.iptv2022.com:443/TV_Educar/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Caraguá TV
 https://cdn.jmvstream.com/w/AVJ-9779/playlist/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Cariri TV
