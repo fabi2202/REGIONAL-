@@ -11,8 +11,6 @@ https://cdn.jmvstream.com:443/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/chunklist_b
 https://hls.brasilstream.com.br/live/redetv/redetv/index.m3u8?token=7371056516177287000
 #EXTINF:0 type="stream" channelId="-1", CONTV
 https://contvanime-plex-ingest.cinedigm.com:443/masterR720P.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Arapuan/RedeTV
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Paraense/SBT
 https://streaming.portaltvparaense.com.br:50176/rtp_live/tracks-v2a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede NGT
