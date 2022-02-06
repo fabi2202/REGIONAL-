@@ -3,7 +3,7 @@
 https://livefocamundo.com:8081/esatv/index.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Indefinido",RIT
 http://168.205.87.198:8555/live/leila/123456/168.ts?checkedby:iptvcat.com
-#EXTINF:0 type="stream" channelId="-1", TV Diversa/TV Brasil (
+#EXTINF:0 type="stream" channelId="-1", TV Diversa/TV Brasil 
 https://hls.brasilstream.com.br/live/tvdiversa/tvdiversa/index.m3u8?token=5882573756041161000
 #EXTINF:0 type="stream" channelId="-1", AWTV (Porto Velho-RO)
 https://cdn.jmvstream.com:443/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/chunklist_b2628000.m3u8
@@ -19,7 +19,7 @@ https://cdn.jmvstream.com:443/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/chunklist
 https://stmv1.srvif.com/antoniomarcosde5801/antoniomarcosde5801/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Black Sampa
 https://video02.kshost.com.br/cesar9428/cesar9428/playlist.m3u8?t=1641823222
-#EXTINF:0 type="stream" channelId="-1", CaraguÃ¡ TV
+#EXTINF:0 type="stream" channelId="-1", Caraguã TV
 https://cdn.jmvstream.com/w/AVJ-9779playlist/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Arapuan/RedeTV
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
@@ -27,7 +27,7 @@ https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
 https://video02.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/4fsI8pJ.png" group-title="", PPZ TV
 https://5c483b9d1019c.streamlock.net/8058/8058/chunklist_w1002170053.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/oxIwagJ.png" group-title="", CTV
+#EXTINF:-1 tvg-logo="https://imgur.com/oxIwagJ.png" group-title="", CTV (Sumé-PB)
 https://5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/XFp4O1Q.png" group-title="", IMPERIAL TV
 https://5d2c98775bafe.streamlock.net/8098/8098/playlist.m3u8
