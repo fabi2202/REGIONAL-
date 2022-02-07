@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", GLN TV
+https://alanza.iptv2022.com:443/GLN_TV/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV CEI
+https://alanza.iptv2022.com/TV_CEI/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", ONTV
+https://alanza.iptv2022.com/ONTV/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", SAJ TV
+https://alanza.iptv2022.com/SAJ_TV/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", OX TV
+https://alanza.iptv2022.com/OX_TV/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV R SUL
+http://alanza.iptv2022.com/TVR_SUL_PT_BR/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV AlianÃ§a Catarinense
+https://alanza.iptv2022.com/TV_ALIANCA_CATARINENSE/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Gramado
+https://alanza.iptv2022.com/TV_GRAMADO/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV UniversitÃ¡ria do ABC
+https://alanza.iptv2022.com/TV_Universitaria/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", SulamÃ©rica TV
 https://stmv1.voxtvhd.com.br/redesulamericatv/redesulamericatv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Extremo Oriental TV
