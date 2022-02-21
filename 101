@@ -11,19 +11,19 @@ https://alanza.iptv2022.com/SAJ_TV/index.m3u8
 https://alanza.iptv2022.com/OX_TV/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV R SUL
 http://alanza.iptv2022.com/TVR_SUL_PT_BR/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV AlianÃ§a Catarinense
+#EXTINF:0 type="stream" channelId="-1", TV Aliança Catarinense
 https://alanza.iptv2022.com/TV_ALIANCA_CATARINENSE/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Gramado
 https://alanza.iptv2022.com/TV_GRAMADO/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV UniversitÃ¡ria do ABC
+#EXTINF:0 type="stream" channelId="-1", TV Universitaria do ABC
 https://alanza.iptv2022.com/TV_Universitaria/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", SulamÃ©rica TV
+#EXTINF:0 type="stream" channelId="-1", Sulamérica TV
 https://stmv1.voxtvhd.com.br/redesulamericatv/redesulamericatv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Extremo Oriental TV
 https://alanza.iptv2022.com:443/XTREMO_ORIENTAL/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Planeta Turismo
 https://cast2.cdnseguro.com/andremalkut/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV BRICS
+#EXTINF:0 type="stream" channelId="-1", TV Brics
 https://porbrics.mediacdn.ru:443/cdn/brics/portuguese/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Fandon TV
 https://alanza.iptv2022.com/Fandom_TV/index.m3u8
@@ -43,11 +43,8 @@ https://alanza.iptv2022.com/TV_TEEN_NET_RIO/index.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvcognopolis/_definst_/tvcognopolis/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Despertar TV
 https://tv.domustelecom.com.br/media/n/BZiZode5y2GXndi0otaZ/a/playlist.m3u8?ch=BZiZode5y2GXndi0otaZ&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NDQxOTk4OTMsInN1YiI6Im1haW4ub3JnIzE2MTIwMDgxOTUiLCJpYXQiOjE2NDQxODU0OTN9.WLnUIJxrKtMkMpPuvjrYNcmLtGXYNMKu9Ws_eNhBJcI
-#EXTINF:0 type="stream" channelId="-1", BrSuper TV
-https://tv.domustelecom.com.br:443/media/n/BZi1nZuZy2GXmtiXmZi4/a/BZi1nZuZy2GXmtiXmZi4/720p/chunks.m3u8?ch=BZi1nZuZy2GXmtiXmZi4&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NDQyMDA0MzUsInN1YiI6Im1haW4ub3JnIzE2MTIwMDgxOTUiLCJpYXQiOjE2NDQxODYwMzV9.gWyGx3A6BLj9n8Iq3tsravO7uzKemg4_8Rkih-U9iAg
 #EXTINF:0 type="stream" channelId="-1", Climatempo BIO
 https://tv.domustelecom.com.br:443/media/n/BZjJAde1nJK1mtK2nJq/a/BZjJAde1nJK1mtK2nJq/720p/chunks.m3u8?ch=BZjJAde1nJK1mtK2nJq&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NDQyMDA2NzYsInN1YiI6Im1haW4ub3JnIzE2MTIwMDgxOTUiLCJpYXQiOjE2NDQxODYyNzZ9.Gs34E13FlU47xQX-2mBiLq91apPchr7bNeBOTkpujqk
-
 #EXTINF:0 type="stream" channelId="-1", ESA TV
 https://livefocamundo.com:8081/esatv/index.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Indefinido",RIT
@@ -58,10 +55,6 @@ https://hls.brasilstream.com.br/live/tvdiversa/tvdiversa/index.m3u8?token=588257
 https://cdn.jmvstream.com:443/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/chunklist_b2628000.m3u8
 #EXTINF:0 type="stream" channelId="-1", RedeTV
 https://hls.brasilstream.com.br/live/redetv/redetv/index.m3u8?token=7371056516177287000
-#EXTINF:0 type="stream" channelId="-1", CONTV
-https://contvanime-plex-ingest.cinedigm.com:443/masterR720P.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Paraense/SBT
-https://streaming.portaltvparaense.com.br:50176/rtp_live/tracks-v2a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede NGT
 https://cdn.jmvstream.com:443/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/chunklist_b1596000.m3u8
 #EXTINF:0 type="stream" channelId="-1", Deus Vivo TV 
@@ -70,13 +63,13 @@ https://stmv1.srvif.com/antoniomarcosde5801/antoniomarcosde5801/playlist.m3u8
 https://video02.kshost.com.br/cesar9428/cesar9428/playlist.m3u8?t=1641823222
 #EXTINF:0 type="stream" channelId="-1", TV Arapuan/RedeTV
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wBGFNXG.png" group-title="BRASIL", TELE WEB TV
+#EXTINF:-1 tvg-logo="https://imgur.com/wBGFNXG.png" group-title="BRASIL", Tele Web TV
 https://video02.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/4fsI8pJ.png" group-title="", PPZ TV
 https://5c483b9d1019c.streamlock.net/8058/8058/chunklist_w1002170053.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oxIwagJ.png" group-title="", CTV (Sumé-PB)
 https://5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/XFp4O1Q.png" group-title="", IMPERIAL TV
+#EXTINF: -1 tvg-logo="https://imgur.com/XFp4O1Q.png" group-title="", Imperial TV
 https://5d2c98775bafe.streamlock.net/8098/8098/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yNXAB3p.png" group-title="", CANAL TV RIO
 https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/playlist.m3u8
@@ -97,8 +90,6 @@ https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="", RecordTV Rio de Janeiro
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/H0BKwdG.png" group-title="", MULTI RIO
-http://187.111.97.45:1935/webtv/webtv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nova TV Vale (Guaratinguetá-SP)
 https://5b7f3c45ab7c2.streamlock.net:443/8016/8016/playlist.m3u8?DVR
 #EXTINF:0 type="stream" channelId="-1", TV Legislativa  (Blumenau-SC)
