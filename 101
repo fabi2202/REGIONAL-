@@ -1,4 +1,17 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", BrSuper TV/Rede Brasil
+https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Brasil Hits
+https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1407789719.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVC Panorama/TV Cultura
+https://streaming03.zas.media:1936/panorama/panorama/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Paraense/SBT (Castanhal-PA)
+https://streaming.portaltvparaense.com.br/rtp_live/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Multi Rio
+http://187.111.97.45:1935/webtv/itluM4819Rio/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Murilo TV
+https://stmv1.samcast.com.br/murilotv/murilotv/chunklist_w823620198.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", GLN TV
 https://alanza.iptv2022.com:443/GLN_TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV CEI
