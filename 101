@@ -33,7 +33,7 @@ https://alanza.iptv2022.com:443/CLC/tracks-v1a1/mono.m3u8
 https://alanza.iptv2022.com:443/TV_Educar/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Caraguá TV
 https://cdn.jmvstream.com/w/AVJ-9779/playlist/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Cariri TV
+#EXTINF:0 type="stream" channelId="-1", Cariri TV (Boqueirâo-PB)
 https://video01.logicahost.com.br/cariritv/cariritv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Central TV (Curitiba-PR)
 https://serv1.redecentraltv.videovox.pw:443/serv1-redecentraltv/serv1-redecentraltv/chunklist_w1283653452.m3u8
@@ -77,7 +77,6 @@ https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/p
 https://livefocamundo.com:8081/allegrowebtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5qUBxaq.png" group-title="", Araruna TV(PB)
 https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/varzeagrande.png" group-title="",TV Várzea Grande/Rede Brasil (MT)
 https://video02.kshost.com.br/adauton7191/adauton7191/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="", RecordTV Bahia
@@ -365,9 +364,9 @@ https://stmv1.duvoxtv.com.br:443/novelaplz/novelaplz/chunklist_w977219138.m3u8
 https://596639ebdd89b.streamlock.net:443/8096/8096/chunklist_w38591527.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Cidade Oeste (Mossoró-RN)
 http://209.222.17.241:5080/LiveApp/streams/872258137935361699746456.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Cidade Vede/SBT (
+#EXTINF:0 type="stream" channelId="-1", TV Cidade Vede/SBT 
 https://stmv1.transmissaodigital.com:443/cidadeverdenovo/cidadeverdenovo/chunklist_w75676841.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV CHANNEL NETWORK (São Paulo-SP)
+#EXTINF:0 type="stream" channelId="-1", TV Channel Network (São Paulo-SP)
 https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", MKK TV (São Paulo-SP)
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
@@ -482,8 +481,6 @@ https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/chunklist_w712012009.m
 https://oj7lng29dg82-hls-live.5centscdn.com:443/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Nova TV ( São Paulo-SP)
 https://5d2c98775bafe.streamlock.net:443/8058/8058/chunklist_w1401786519.m3u8
-#EXTINF:0 type="stream" channelId="-1", Cariri TV(Boqueirão-PB)
-https://5cf4a2c2512a2.streamlock.net/cariritv/cariritv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Sul (Guaxupé-MG)
 http://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", UNB TV ( Brasilia-DF)
