@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", TV Sistec
+https://srv1.zcast.com.br/tvsistec/tvsistec/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", BrSuper TV/Rede Brasil
 https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Brasil Hits
@@ -11,7 +13,6 @@ https://streaming.portaltvparaense.com.br/rtp_live/index.m3u8
 http://187.111.97.45:1935/webtv/itluM4819Rio/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Murilo TV
 https://stmv1.samcast.com.br/murilotv/murilotv/chunklist_w823620198.m3u8
-
 #EXTINF:0 type="stream" channelId="-1", GLN TV
 https://alanza.iptv2022.com:443/GLN_TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV CEI
