@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", TV Erga Omnes
+http://tvergaomnes.duckdns.org:8080/hls/ergaomnes.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Ceará
 https://player.jmvstream.com/avj/fut4x2uu9cx01mZ7Mb2pm7RXeDRW38
 #EXTINF:0 type="stream" channelId="-1", TV Lagos (MacaÃ©-RJ)
