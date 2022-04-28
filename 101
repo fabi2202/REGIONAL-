@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", Rede Meio Norte
+https://livestream.com/accounts/3332377/events/10329975
 #EXTINF:0 type="stream" channelId="-1", Canal 24 horas
 http://www.canal24horastv.com/
 #EXTINF:0 type="stream" channelId="-1", RIT
