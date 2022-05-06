@@ -1,0 +1,82 @@
+#EXTM3U
+#EXTINF:-1, Virgin TV
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:-1 group-title=”Music”,9 Волна
+rtmp://176.9 .127.102/live/myStream_1
+#EXTINF:-1 group-title=”Música”,A-One
+http://5.105.0.255:1234/udp/239.0.0.34:1234
+#EXTINF:-1 group-title=”Música ”,A-One Россия
+http://hls.peers.tv/streaming/aone/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title=”Music”,Armada TV
+http://188.93.18.237: 1935/tv/3052/playlist.m3u8
+#EXTINF:-1 group-title=”Music”,BEST MUSIC TV HD
+rtmp://stream.smcloud.net/live2/best/best_720p?Vd?u#bt!25
+# EXTINF:-1 group-title=”Música”,Bridge TV
+http://en356.edem.tv/iptv/ENNLFZ2ERL7KNC/122/index.m3u8
+#EXTINF:-1 group-title=”Music”,Brio
+http://brio.cdnvideo.ru/rtp/brio/playlist.m3u8
+#EXTINF:-1 group-title=”Music”,CITY TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
+#EXTINF:-1 group-title=”Music”,CT
+rtmp ://80.245.113.12/live/pubtalk1
+#EXTINF:-1 group-title=”Music”,DANGE TV
+http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
+#EXTINF:-1 group -title=”Music”,DREAM
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 group-title=”Music”,Deluxe Music
+rtmp://flash.cdn. deluxemusic.tv/deluxemusic.tv-live/web_850.stream
+#EXTINF:-1 group-title=”Música”,Djing
+http://cdn.djing.com/tv/h-05.m3u8
+#EXTINF:-1 group-title=”Music”,ELECTROSOUND TV
+rtmp://www.electrosound.tv:1935/public/stream
+#EXTINF: -1 group-title=”Música”,ES-GoticTV
+rtmp://149.11.34.6/live/gotica.stream
+#EXTINF:-1 group-title=”Música”,ESKA PARTY TV
+rtmp://stream.smcloud. net/live2/eska_party/eska_party_720p
+#EXTINF:-1 group-title=”Music”,Eska Rock
+http://serv07.vintera.tv:1935/restream/eska_rock.stream/playlist.m3u8
+#EXTINF:-1 group- title=”Música”,Eska TV
+http://stream.smcloud.net/live/eskatv/playlist.m3u8
+#EXTINF:-1 group-title=”Música”,FRESH TV
+http://wse.planeta-online. tv:1935/live/channel_4/index.m3u8
+#EXTINF:-1 group-title=”Música”,Primeira Música HD
+rtmp://109.239.142.62/live/livestream3
+#EXTINF:-1 group-title=”Music”,Fun 1 TV
+mms:
+//portal.satplus.cz/TV_FUN1 #EXTINF:-1 group-title=”Music” ,Gold tv
+http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
+#EXTINF:-1 group-title=”Music”,HardLife TV
+http://euro.online.hls.cn.ru/streaming /hardlife_tv/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title=”Music”,Hit TV
+http://vs2.cdn.ott.otautv.kz/dtv/id13_KTR_SG–Hittv/03/plst.m3u8
+#EXTINF:-1 group-title=”Música”,JIM TV
+http://apple.jim.stream.vmmacdn.be/hls/hls_high.m3u8
+#EXTINF:-1 group-title=”Música”,JUCE TV HD
+http://109.68.190.192:1935/jucetv/ngrp:jucetv.stream-adaptive/playlist.m3u8
+#EXTINF:-1 group-title=”Music”,Kiss tv
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1 group-title=”Música”,Lobas TV
+http://149.11.34.6:1935/live/ lobas.stream/playlist.m3u8 #EXTINF:-1 group- title
+=”Music”,M1
+http://auth.torrent-tv.ru/h/503/1/2/dUFBK3pSN3VwbFJIZWloWTk2WEZERk1qMzFHV2lWbkFJLytUS3YzYUJxbWpxcG53Um1KNEFBT241d0o3MTFWdAgroup-title
+=”Music”,M6 Music Hits
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+#EXTINF:-1 group-title=”Music”,MCM TOP
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_MCMTOP/variant.m3u8?version=2
+#EXTINF:-1 group-title=”Music”,MFM TV
+http://ec.playmedia.fr/ mfmtv/live/playlist.m3u8
+#EXTINF:-1 group-title=”Música”,MTV
+http://95.188.124.200:1234/udp/233.7.70.202:5000
+#EXTINF:-1 group-title=”Music”,MTV Dance
+http://5.105.0.255:1234/udp/239.0.0.87:1234
+# EXTINF:-1 group-title=”Music”,MTV Hits
+rtmp://fr456.edem.tv/iptv/153?key=6TGEMRUHCLH9PG
+#EXTINF:-1 group-title=”Music”,MTV Russia
+http:// hlsstr02.svc.iptv.rt.ru/hls/CH_MTV/variant.m3u8?version=0
+#EXTINF:-1 group-title=”Música”,Mezzo
+http://hlsstr02.svc.iptv.rt.ru/hls /CH_MEZZO/variant.m3u8?version=0
+#EXTINF:-1 group-title=”Música”,MusicBox TV
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_MUSICBOXTV/variant.m3u8?version=0
+#EXTINF:-1 group-title=”Música”,AGORA Música.
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1 group-title=”Music”, AGORA É ASSIM QUE EU CHAME MUSIC
