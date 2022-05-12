@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", Rede Mais Família
+https://video01.logicahost.com.br:443/redefamiliaa/redefamiliaa/chunklist_w1638468648.m3u8
 #EXTINF:0 type="stream" channelId="-1", ABBA TV (OsÃ³rio-PR)
 https://video01.kshost.com.br:4443/adilson8953/adilson8953/chunklist_w679624101.m3u8
 #EXTINF:0 type="stream" channelId="-1", ALL Sports (Brasilia-DF)
@@ -27,7 +29,7 @@ https://607d2a1a47b1f.streamlock.net:443/crur/smil:canaldocriador.smil/chunklist
 http://189.51.193.70:1935/canalsete/xpl-c7/chunklist_w1018147912.m3u8
 #EXTINF:0 type="stream" channelId="-1", Difusora Sul/SBT (Imperatriz-MA)
 https://stream.amsolution.net.br:8443/live/60dceaa0637fb/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", EmpresÃ¡rios TV ( São Paulo-SP)
+#EXTINF:0 type="stream" channelId="-1", Empresários TV ( São Paulo-SP)
 https://live.nucleonerd.com.br/hls/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1", Entorno Sul (Brasi­lia-DF)
 https://video01.kshost.com.br/manoel2072/manoel2072/playlist.m3u8
