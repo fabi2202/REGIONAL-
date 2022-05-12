@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1", ABBA TV (OsÃ³rio-PR)
 https://video01.kshost.com.br:4443/adilson8953/adilson8953/chunklist_w679624101.m3u8
-#EXTINF:0 type="stream" channelId="-1", ALL Sports (BrasÃ­lia-DF)
+#EXTINF:0 type="stream" channelId="-1", ALL Sports (Brasilia-DF)
 https://5cf4a2c2512a2.streamlock.net:443/dgrau/dgrau/chunklist_w1241492840.m3u8
-#EXTINF:0 type="stream" channelId="-1", BCC TV (SÃ£o Paulo-SP)
+#EXTINF:0 type="stream" channelId="-1", BCC TV (São Paulo-SP)
 https://video01.kshost.com.br:4443/bccinternational523/bccinternational523/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Boa Vontade
 https://rr2---sn-oxunxg8pjvn-wujee.googlevideo.com/videoplayback?expire=1652385186&ei=QhF9Yv2JAfLp1AGk4JeoDQ&ip=2804%3A14c%3A5781%3A8680%3A88da%3A99e3%3A1c0f%3Ac9a0&id=Ql9ZDWkbI40.3&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=NJ&mm=44%2C29&mn=sn-oxunxg8pjvn-wujee%2Csn-bg07dnze&ms=lva%2Crdu&mv=m&mvi=2&pl=41&initcwndbps=1043750&spc=4ocVC7nevaL2oOtCm76WzMUq9nYC&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=8OsPaPN0K5CI29QXf5tMIuUG&gir=yes&mt=1652363319&fvip=1&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=nfuHW3GKyr3Nrg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhAKbHSBsn53ojf2MSBXkd8jQ-rNghE_DAyqx3p_uIlNi9AiAj7HBCD5fHBLVXNPAc3S6HqJcdLxowUt-e05pkFeNwmg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgLi3HJSdPuDMguveuOjPcAeRIemUBmaFqF5ltui9r7AICIEYu8ULWWNICRVv-gjt-DKaqh0hzl_Fzt0LsK8TlJXHJ&alr=yes&cpn=SOyyzRKgW-RclmoX&cver=1.20220510.01.00&headm=3&rn=1&rbuf=0
@@ -11,27 +11,27 @@ https://rr2---sn-oxunxg8pjvn-wujee.googlevideo.com/videoplayback?expire=16523851
 https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", CTV ( SumÃ©-PB)
 https://5eaa6849d0971.streamlock.net/ctvpb/ctvpb/chunklist_w311481941.m3u8
-#EXTINF:0 type="stream" channelId="-1", Canal 29 (SÃ£o Paulo)
+#EXTINF:0 type="stream" channelId="-1", Canal 29 (São Paulo)
 https://stmv1.srvif.com/canal29/canal29/chunklist_w2125553746.m3u8
 #EXTINF:0 type="stream" channelId="-1", RTV Canal 38/ESA TV ( Apucarana-PR)
 https://cdn.jmvstream.com:443/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Canal Plural (SÃ£o JosÃ© dos Campos-SP)
+#EXTINF:0 type="stream" channelId="-1", Canal Plural (São José dos Campos-SP)
 https://stmv2.samcast.com.br:443/osc6197/osc6197/chunklist_w389227379.m3u8
-#EXTINF:0 type="stream" channelId="-1", Canal Promessas (GoiÃ¢nia-GO)
+#EXTINF:0 type="stream" channelId="-1", Canal Promessas (Goiânia-GO)
 https://video01.kshost.com.br:4443/gente8322/gente8322/chunklist_w1826582974.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal Rural
 https://607d2a1a47b1f.streamlock.net:443/crur/smil:canalrural.smil/chunklist_w726754747_b2596000_sleng.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal do Criador
 https://607d2a1a47b1f.streamlock.net:443/crur/smil:canaldocriador.smil/chunklist_w1135875530_b2596000_sleng.m3u8
-#EXTINF:0 type="stream" channelId="-1", Canal Sete (SÃ£o SebastiÃ£o do ParaÃ­so-MG)
+#EXTINF:0 type="stream" channelId="-1", Canal Sete (São Sebastião do Paraiso-MG)
 http://189.51.193.70:1935/canalsete/xpl-c7/chunklist_w1018147912.m3u8
 #EXTINF:0 type="stream" channelId="-1", Difusora Sul/SBT (Imperatriz-MA)
 https://stream.amsolution.net.br:8443/live/60dceaa0637fb/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", EmpresÃ¡rios TV ( SÃ£o Paulo-SP)
+#EXTINF:0 type="stream" channelId="-1", EmpresÃ¡rios TV ( São Paulo-SP)
 https://live.nucleonerd.com.br/hls/stream.m3u8
-#EXTINF:0 type="stream" channelId="-1", Entorno Sul (BrasÃ­lia-DF)
+#EXTINF:0 type="stream" channelId="-1", Entorno Sul (Brasi­lia-DF)
 https://video01.kshost.com.br/manoel2072/manoel2072/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", FMUTV (SÃ£o Paulo-SP)
+#EXTINF:0 type="stream" channelId="-1", FMUTV (São Paulo-SP)
 https://stmv1.srvstm.com:443/fernando5813/fernando5813/chunklist_w903421884.m3u8
 #EXTINF:0 type="stream" channelId="-1", GNM (Montes Claros-MG)
 https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/chunklist_w1910639640.m3u8
