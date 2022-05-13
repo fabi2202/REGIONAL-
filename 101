@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1", TV Ecovale (Chapada dos Guimarães-MT)
 https://livefocamundo.com:8081/tvecovale/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV FÃªnix (Salvador-BA)
+#EXTINF:0 type="stream" channelId="-1", TV Fênix (Salvador-BA)
 https://stmv1.srvstm.com:443/tvfenixbahia/tvfenixbahia/chunklist_w1664529714.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Chapada (Morro do Chapéu-BA)
 https://tvchapada.proxy.tokplay.com.br/main.m3u8
