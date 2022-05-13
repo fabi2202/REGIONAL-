@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1", Rede MetrÃ³pole/Rede Meio Norte
+#EXTINF:0 type="stream" channelId="-1", Rede Metrópole/Rede Meio Norte
 https://alanza.iptv2022.com/RedeMetropole-ptbr/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", TV Metropolitana Rio (Rio de Janeiro-RJ)
