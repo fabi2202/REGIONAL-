@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", TV O Dia/RedeTV
+https://alanza.iptv2022.com/TV_O_DIA/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV ART
+https://alanza.iptv2022.com/TV_ART_HD/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Fronteira News
+https://alanza.iptv2022.com:443/FRONTEIRA_MOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Nordestina
+https://alanza.iptv2022.com:443/tv_nordestina/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Sul de Minas
+https://alanza.iptv2022.com:443/Tv_Sul_de_Minas/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", Lagoa TV
+https://alanza.iptv2022.com/LAGOA_TV/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Nova Esperança
+https://alanza.iptv2022.com/tv_nova_esperanca/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Clic Brasil/Rede Brasil
+https://alanza.iptv2022.com:443/TV_CLIC_BRASIL/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Lagos 
+https://alanza.iptv2022.com:443/TV_LAGOS/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nova TV Agrotoor
 https://alanza.iptv2022.com/NovaTV_Agrotoor/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", CNB
@@ -7,7 +25,7 @@ https://alanza.iptv2022.com:443/TV_CNB/tracks-v1a1/mono.m3u8
 https://alanza.iptv2022.com:443/Braga_Brasil/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Life Channel
 https://alanza.iptv2022.com:443/LIFE_CHANNEL_BRASIL/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", Assim Ã‰ Portugal
+#EXTINF:0 type="stream" channelId="-1", Assim É Portugal
 https://alanza.iptv2022.com:443/ASSIME_PORTUGAL_TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Jacutinga
 https://alanza.iptv2022.com:443/TV_Jacutinga/tracks-v1a1/mono.m3u8
@@ -20,21 +38,21 @@ https://alanza.iptv2022.com/RedeMetropole-ptbr/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", TV Metropolitana Rio (Rio de Janeiro-RJ)
 https://alanza.iptv2022.com:443/METROPOLITANA_RIO/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rede Manchete (ParaÃ­so do Tocantins-TO)
+#EXTINF:0 type="stream" channelId="-1", Rede Manchete (Paraiso do Tocantins-TO)
 https://video01.kshost.com.br:4443/murilo9207/murilo9207/chunklist_w1166452548.m3u8
-#EXTINF:0 type="stream" channelId="-1", Nova Gazeta (Presidente GetÃºlio-SC)
+#EXTINF:0 type="stream" channelId="-1", Nova Gazeta (Presidente Getulio-SC)
 https://video01.kshost.com.br:4443/sueli3485/sueli3485/chunklist_w1370575783.m3u8
-#EXTINF:0 type="stream" channelId="-1", Planalto Norte (SÃ£o Bento do Sul-SC)
+#EXTINF:0 type="stream" channelId="-1", Planalto Norte (São Bento do Sul-SC)
 https://video01.logicahost.com.br:443/tvplanalto/tvplanalto/chunklist_w1253217568.m3u8
-#EXTINF:0 type="stream" channelId="-1", Portal News (Campos do JordÃ£o-SP)
+#EXTINF:0 type="stream" channelId="-1", Portal News (Campos do Jordão-SP)
 https://video01.logicahost.com.br:443/tvplanalto/tvplanalto/chunklist_w1253217568.m3u8
 #EXTINF:0 type="stream" channelId="-1", RBI (BrasÃ­lia-DF)
 https://live.vimeocdn.com:443/1652398663-0x3df9beba1a4b8fa6284b6aa7dbf511a8d548008a/8625ac42-9ef0-4d8c-a09d-9cc75d19204a/chunklist_b6256000.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede TV (PR)
 http://60d88f8ce1206.streamlock.net:80/id84/id84/chunklist_w291235217.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Paranaiba/Record TV (UberlÃ¢ndia-MG)
+#EXTINF:0 type="stream" channelId="-1", TV Paranaiba/Record TV (Uberlãndia-MG)
 https://app.paranaibaplay.com.br/mobile/tv.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV VIla Real/Record TV (CuiabÃ¡-MT)
+#EXTINF:0 type="stream" channelId="-1", TV VIla Real/Record TV (CuiabÃ-MT)
 https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8?wowzatokenstarttime=1652395854&wowzatokenendtime=1652403054&wowzatokencustomparameter=VMkbnyI0YKp1&wowzatokenhash=y7_TAcShECCzeToQMLSqfPhf8GR3E3BaDz71mMZwJ5o=
 #EXTINF:0 type="stream" channelId="-1", SIC TV/Record TV (Porto Velho-RO)
 http://5953e7f9ae845.streamlock.net/2502/2502/playlist.m3u8
