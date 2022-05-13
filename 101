@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", TV Ecovale (Chapada dos Guimarães-MT)
+https://livefocamundo.com:8081/tvecovale/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV FÃªnix (Salvador-BA)
+https://stmv1.srvstm.com:443/tvfenixbahia/tvfenixbahia/chunklist_w1664529714.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Chapada (Morro do Chapéu-BA)
+https://tvchapada.proxy.tokplay.com.br/main.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Vitória ( Recife-PB)
+https://5a0c3936c25c8.streamlock.net:443/tvvitoriape/tvvitoriape/chunklist_w84793709.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rede TV Família 
+https://video01.kshost.com.br:4443/walmeson9011/walmeson9011/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV O Dia/RedeTV
 https://alanza.iptv2022.com/TV_O_DIA/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV ART
