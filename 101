@@ -13,7 +13,13 @@ https://video01.kshost.com.br:4443/walmeson9011/walmeson9011/playlist.m3u8
 https://alanza.iptv2022.com/TV_O_DIA/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV ART
 https://alanza.iptv2022.com/TV_ART_HD/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Fronteira News
+#EXTINF:0 type="stream" channelId="-1", UP TV
+https://stmv1.srvstm.com:443/paulo4642/paulo4642/chunklist_w1180670591.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Boa Nova ( Aracruz-ES)
+https://stmv.video.expressolider.com.br/tvboanova/tvboanova/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Fronteira Channel
+https://alanza.iptv2022.com:443/TV_FRONTEIRA/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", Fronteira Movies
 https://alanza.iptv2022.com:443/FRONTEIRA_MOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Nordestina
 https://alanza.iptv2022.com:443/tv_nordestina/tracks-v1a1/mono.m3u8
@@ -72,17 +78,17 @@ https://stmv2.samcast.com.br:443/redeclonetv/redeclonetv/chunklist_w2146949317.m
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1348738048.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Super (Belo Horizonte-MG)
 https://player-api.new.livestream.com/accounts/10205943/events/10199127/broadcasts/231086290.secure.m3u8?dw=80&hdnea=st=1652398104~exp=1652399904~acl=/i/10205943_10199127_lsi3g6rz0duz0fnatjo_1@446984/*~hmac=8a0ef2b7c9c4614906b67dd8f584103f554d6a7be0025cf4649f94d3ddfcb47a&token=627d9944_277f6eaea559cf454143b6d632940a9030969e20
-#EXTINF:0 type="stream" channelId="-1", TV SÃ©culo 21 (Valinhos-SP)
+#EXTINF:0 type="stream" channelId="-1", TV Século 21 (Valinhos-SP)
 https://cdn.jmvstream.com:443/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b132000.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV UniÃ£o (Fortaleza-CE)
+#EXTINF:0 type="stream" channelId="-1", TV União (Fortaleza-CE)
 https://cdn.jmvstream.com:443/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b132000.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Resende (Nova Resende-MG)
 https://cdn-mateus-10454.ciclano.io:1443/mateus-10454/mateus-10454/chunklist_w615913004.m3u8
-#EXTINF:0 type="stream" channelId="-1", SBT Interior ( SÃ£o JosÃ© do Rio Preto-SP)
+#EXTINF:0 type="stream" channelId="-1", SBT Interior ( São João do Rio Preto-SP)
 https://cdn.jmvstream.com:443/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", SOU TV (GravataÃ­-RS)
+#EXTINF:0 type="stream" channelId="-1", SOU TV (Gravatai­-RS)
 https://video01.kshost.com.br:4443/tiago4725/tiago4725/chunklist_w645857183.m3u8
-#EXTINF:0 type="stream" channelId="-1", STZ (SertÃ£ozinho-SP)
+#EXTINF:0 type="stream" channelId="-1", STZ (Sertãozinho-SP)
 https://cdn.jmvstream.com:443/w/AVJ-11063/playlist/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Mais Família
 https://video01.logicahost.com.br:443/redefamiliaa/redefamiliaa/chunklist_w1638468648.m3u8
@@ -96,7 +102,7 @@ https://video01.kshost.com.br:4443/bccinternational523/bccinternational523/playl
 https://rr2---sn-oxunxg8pjvn-wujee.googlevideo.com/videoplayback?expire=1652385186&ei=QhF9Yv2JAfLp1AGk4JeoDQ&ip=2804%3A14c%3A5781%3A8680%3A88da%3A99e3%3A1c0f%3Ac9a0&id=Ql9ZDWkbI40.3&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=NJ&mm=44%2C29&mn=sn-oxunxg8pjvn-wujee%2Csn-bg07dnze&ms=lva%2Crdu&mv=m&mvi=2&pl=41&initcwndbps=1043750&spc=4ocVC7nevaL2oOtCm76WzMUq9nYC&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=8OsPaPN0K5CI29QXf5tMIuUG&gir=yes&mt=1652363319&fvip=1&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=nfuHW3GKyr3Nrg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhAKbHSBsn53ojf2MSBXkd8jQ-rNghE_DAyqx3p_uIlNi9AiAj7HBCD5fHBLVXNPAc3S6HqJcdLxowUt-e05pkFeNwmg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgLi3HJSdPuDMguveuOjPcAeRIemUBmaFqF5ltui9r7AICIEYu8ULWWNICRVv-gjt-DKaqh0hzl_Fzt0LsK8TlJXHJ&alr=yes&cpn=SOyyzRKgW-RclmoX&cver=1.20220510.01.00&headm=3&rn=1&rbuf=0
 #EXTINF:0 type="stream" channelId="-1", Canal TV Rio
 https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", CTV ( SumÃ©-PB)
+#EXTINF:0 type="stream" channelId="-1", CTV ( Sumaé-PB)
 https://5eaa6849d0971.streamlock.net/ctvpb/ctvpb/chunklist_w311481941.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 29 (São Paulo)
 https://stmv1.srvif.com/canal29/canal29/chunklist_w2125553746.m3u8
@@ -1053,8 +1059,6 @@ https://596639ebdd89b.streamlock.net:443/estilo/estilo/chunklist_w1286905761.m3u
 https://5abdf4edae5bf.streamlock.net:443/tribunalivretv/tribunalivretv/chunklist_w1641608152.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Serra Verde
 https://stmv6.srvstm.com:443/leandro9908/leandro9908/chunklist_w993985451.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Fronteira
-https://srv2.zcast.com.br/webtvfronteira/webtvfronteira/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Serra dos Brindes
 https://5abdf4edae5bf.streamlock.net:443/tvserradosbrindestvstation/tvserradosbrindestvstation/chunklist_w94400291.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Nova Onda
