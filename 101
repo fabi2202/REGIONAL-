@@ -1,11 +1,12 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", RBI (São Paulo-SP)
+https://live-ak.vimeocdn.com:443/exp=1653058993~acl=%2Fe36c5dad-2e35-433b-99d7-cb0c7daa335b%2F%2A~hmac=a92e223e1cdb0ea262b25e435adc0a8e50c1e243372d2e875871fc63589d0687/e36c5dad-2e35-433b-99d7-cb0c7daa335b/chunklist_b5256000.m3u8?max_segments=10
 #EXTINF:0 type="stream" channelId="-1", Canal 19 (Limeira-SP)
 https://stmv1.srvstm.com:443/bruno4723/bruno4723/chunklist_w526414876.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Educadora ( (Limeira-SP)
 https://5a2b083e9f360.streamlock.net:443/rog/rog.sdp/chunklist_w360744515.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV PrevÃª/TV Brasil 2 (Bauru-SP)
+#EXTINF:0 type="stream" channelId="-1", TV Prevê/TV Brasil 2 (Bauru-SP)
 https://video01.kshost.com.br:4443/paulispar7372/paulispar7372/chunklist_w143503201.m3u8
-
 #EXTINF:0 type="stream" channelId="-1", TV Ecovale (Chapada dos Guimarães-MT)
 https://livefocamundo.com:8081/tvecovale/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Fênix (Salvador-BA)
@@ -69,8 +70,6 @@ https://video01.kshost.com.br:4443/sueli3485/sueli3485/chunklist_w1370575783.m3u
 https://video01.logicahost.com.br:443/tvplanalto/tvplanalto/chunklist_w1253217568.m3u8
 #EXTINF:0 type="stream" channelId="-1", Portal News (Campos do Jordão-SP)
 https://video01.logicahost.com.br:443/tvplanalto/tvplanalto/chunklist_w1253217568.m3u8
-#EXTINF:0 type="stream" channelId="-1", RBI (BrasÃ­lia-DF)
-https://live.vimeocdn.com:443/1652398663-0x3df9beba1a4b8fa6284b6aa7dbf511a8d548008a/8625ac42-9ef0-4d8c-a09d-9cc75d19204a/chunklist_b6256000.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede TV (PR)
 http://60d88f8ce1206.streamlock.net:80/id84/id84/chunklist_w291235217.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Paranaiba/Record TV (Uberlãndia-MG)
@@ -79,9 +78,9 @@ https://app.paranaibaplay.com.br/mobile/tv.m3u8
 https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8?wowzatokenstarttime=1652395854&wowzatokenendtime=1652403054&wowzatokencustomparameter=VMkbnyI0YKp1&wowzatokenhash=y7_TAcShECCzeToQMLSqfPhf8GR3E3BaDz71mMZwJ5o=
 #EXTINF:0 type="stream" channelId="-1", SIC TV/Record TV (Porto Velho-RO)
 http://5953e7f9ae845.streamlock.net/2502/2502/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rede Clone (BelÃ©m-PA)
+#EXTINF:0 type="stream" channelId="-1", Rede Clone (Belém-PA)
 https://stmv2.samcast.com.br:443/redeclonetv/redeclonetv/chunklist_w2146949317.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV LuzilÃ¢ndia (Teresina-PI)
+#EXTINF:0 type="stream" channelId="-1", TV Luzilãndia (Teresina-PI)
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1348738048.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Super (Belo Horizonte-MG)
 https://player-api.new.livestream.com/accounts/10205943/events/10199127/broadcasts/231086290.secure.m3u8?dw=80&hdnea=st=1652398104~exp=1652399904~acl=/i/10205943_10199127_lsi3g6rz0duz0fnatjo_1@446984/*~hmac=8a0ef2b7c9c4614906b67dd8f584103f554d6a7be0025cf4649f94d3ddfcb47a&token=627d9944_277f6eaea559cf454143b6d632940a9030969e20
@@ -293,8 +292,6 @@ https://stmv3.samcast.com.br/christianalves2862/christianalves2862/playlist.m3u8
 https://video01.kshost.com.br/webseminovos5853/webseminovos5853/playlist.m3u8?t=1636798130
 #EXTINF:0 type="stream" channelId="-1", TV Diário (Fortaleza-CE)
 https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZYkpIROtKdBlZlmFAP8U02M)/dm/3/x7txn7q/s/live-0.m3u8#cell=lnyc
-#EXTINF:0 type="stream" channelId="-1", RBI (Brasília-DF)
-https://live-ak.vimeocdn.com/exp=1636818519~acl=%2F51c89467-3bb6-418e-9ad9-41d74c16a4fe%2F%2A~hmac=b8fe18b36fab7943ba40e45e6b73185ddbbf11d8550439f2b6af9f1e19196736/51c89467-3bb6-418e-9ad9-41d74c16a4fe/chunklist_b416000.m3u8?max_segments=10
 #EXTINF:0 type="stream" channelId="-1", TV do Povo/Rede Meio Norte (Ariquemes - RO)
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Marajoara/Rede Mundial (Ananindeua-PA)
