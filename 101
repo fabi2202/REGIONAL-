@@ -1,7 +1,11 @@
-
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1", Pluto TV Cine Sucesso
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=6.1.0-224569062434f6d546248cea44e460b64fe8772e&app_name=web&clientDeviceType=0&clientID=9cbd04cd-f65d-48ed-8720-528f761a661b&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=9cbd04cd-f65d-48ed-8720-528f761a661b&deviceLat=-22.2635&deviceLon=-49.1364&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=101.0.4951&marketingRegion=BR&serverSideAds=true&sessionID=02ae995b-d772-11ec-8f98-0242ac110003&sid=02ae995b-d772-11ec-8f98-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImEwZWNjOTJkLWVjNWEtNGVlMC1hYjFhLWYwNDQ4ZjNiNzAzMSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwMmFlOTk1Yi1kNzcyLTExZWMtOGY5OC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjI4MDQ6MTRjOjU3ODE6ODZjZDpmMWM5OmQxNmM6MjgxOjY3YTgiLCJjaXR5IjoiQmF1cnUiLCJwb3N0YWxDb2RlIjoiMTcwMDAiLCJjb3VudHJ5IjoiQlIiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IkJSIiwiZGV2aWNlTGF0IjotMjIuMjYzNSwiZGV2aWNlTG9uIjotNDkuMTM2NCwicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTAxLjAuNDk1MSIsImRldmljZU1ha2UiOiJjaHJvbWl1bS13ZWJ2aWV3IiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMS4wLTIyNDU2OTA2MjQzNGY2ZDU0NjI0OGNlYTQ0ZTQ2MGI2NGZlODc3MmUiLCJjbGllbnRJRCI6IjljYmQwNGNkLWY2NWQtNDhlZC04NzIwLTUyOGY3NjFhNjYxYiIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL1Nhb19QYXVsbyIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2NTI5OTMzMjEsImp0aSI6ImQ5MGMxYTIyLTQ3MGItNDQ5NS04NDA0LTA3MGZmOGI0MDRjMyIsImlhdCI6MTY1Mjk2NDUyMSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOk9XTmlaREEwWTJRdFpqWTFaQzAwT0dWa0xUZzNNakF0TlRJNFpqYzJNV0UyTmpGaSJ9.DULFzGhA0LzygAM50g1guktLFuNttTDLkLpVXm1xCdU&masterJWTPassthrough=true
+#EXTINF:0 type="stream" channelId="-1", Canal 19 (Limeira-SP)
+https://stmv1.srvstm.com:443/bruno4723/bruno4723/chunklist_w526414876.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Educadora ( (Limeira-SP)
+https://5a2b083e9f360.streamlock.net:443/rog/rog.sdp/chunklist_w360744515.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV PrevÃª/TV Brasil 2 (Bauru-SP)
+https://video01.kshost.com.br:4443/paulispar7372/paulispar7372/chunklist_w143503201.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", TV Ecovale (Chapada dos Guimarães-MT)
 https://livefocamundo.com:8081/tvecovale/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Fênix (Salvador-BA)
@@ -329,8 +333,6 @@ https://video01.logicahost.com.br:443/blitstv/blitstv/chunklist_w26905352.m3u8
 https://video01.logicahost.com.br:443/qtalchannel/qtalchannel/chunklist_w544216001.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", Rede QDM 2
 https://video01.logicahost.com.br/tvkidmais/tvkidmais/playlist.m3u8
-#EXTINF: 0 type = "stream" channelId = "- 1", TV Prevê (Bauru-SP)
-https://video02.kshost.com.br/paulispar7372/paulispar7372/playlist.m3u8?t=1636472289
 #EXTINF: 0 type = "stream" channelId = "- 1", UNITV (Porto Alegre-RS)
 http://unitvaovivo.ufrgs.br:8080/live.ogg
 #EXTINF: 0 type = "stream" channelId = "- 1", TV Terra do Sol (Fortaleza-CE)
@@ -855,7 +857,7 @@ https://stmv3.samcast.com.br/rosanaa9913/rosanaa9913/playlist.m3u8
 https://59e4b6c1beddc.streamlock.net/8138/8138/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Santa Maria (Santa Maria-RS)
 https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV SIJI( Luis Eduardo Magalhães-BA)
+#EXTINF:0 type="stream" channelId="-1", TV SIJI (Luis Eduardo Magalhães-BA)
 https://livefocamundo.com:8081/8656/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", TV Reino
@@ -884,11 +886,11 @@ https://5a57bda70564a.streamlock.net:443/smart/smart.sdp/chunklist_w1558145484.m
 https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Família (Campinas-SP)
 https://5a1c76baf08c0.streamlock.net:443/familia/smil:familia.smil/chunklist_b1628000.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV União ( Brasilia-DF)
+#EXTINF:0 type="stream" channelId="-1", TV União (Brasilia-DF)
 https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/chunklist_w681178787.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Mais Nordeste(Recife-PE)
 https://5eaa6849d0971.streamlock.net:443/tvmaisnordestetv/tvmaisnordestetv/chunklist_w281663373.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV C ( TV Gazeta) (Araçatuba-SP)
+#EXTINF:0 type="stream" channelId="-1", TV C (TV Gazeta) (Araçatuba-SP)
 https://5ad482a77183d.streamlock.net:443/financeirotvc21.com.br/financeirotvc21.com.br/chunklist_w95433986.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Web Agrotour(Porto Alegre-RS)
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
