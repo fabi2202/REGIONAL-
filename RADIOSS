@@ -1,0 +1,268 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", Rádio Difusora Arco Íris 900 AM (Araputanga / MT)
+https://shout25.crossradio.com.br:18426/stream
+#EXTINF:0 type="stream" channelId="-1", Rádio Garça Branca 870 AM (Guiratinga / MT)
+https://r1---sn-bg07dnk6.c.2mdn.net/videoplayback/id/af022c62e3041784/itag/346/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/1669909751/sparams/acao,ctier,expire,id,ip,ipbits,itag,mh,mip,mm,mn,ms,mv,mvi,pl,source/signature/0726AB04B1D63605C3AA3AD62E0886B2315A0C9B.1140B955FB4ECAAACAAF0A14625F52B8FC62CB13/key/cms1/cms_redirect/yes/mh/5e/mip/2804:431:c7e6:d230:21e0:35c3:b978:b32d/mm/42/mn/sn-bg07dnk6/ms/onc/mt/1638373247/mv/m/mvi/1/pl/48/file/file.mp4
+#EXTINF:0 type="stream" channelId="-1", Rádio Nova Difusora 97.3 FM (Cáceres / MT)
+http://186.226.63.6:2080/radio/8010/radio.mp3
+#EXTINF:0 type="stream" channelId="-1", Rádio Mais 550 AM (Sinop / MT)
+https://5a2b083e9f360.streamlock.net/rtvmaishd/rtvmaishd.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rádio Alpha 101.7 FM (São Paulo / SP)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac
+#EXTINF:0 type="stream" channelId="-1", Universal Clean (Montes Claros / MG)
+https://player.xcast.com.br/proxy/11440
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/Ivdf27M.png" tvg-name=""radio=true,Rádio Alegria FM
+http://stream.ouveai.com.br:8061/;
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/6sLoNZn.png" tvg-name=""radio=true,Rádio Itapema FM
+http://82747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/ita_poa.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/dT8ZOeg.png" tvg-name=""radio=true,Rádio Atlântida FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/WZrYSBf.gif" tvg-name=""radio=true,Rádio Farroupilha FM/AM
+http://92747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/far_poa.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/TKZ90g5.png" tvg-name=""radio=true,Rádio Eldorado FM
+http://noasrv.caster.fm:10136/stream
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/I5y8DaH.png" tvg-name=""radio=true,Rádio Princesa FM
+http://noasrv.caster.fm:10124/stream
+
+#EXTINF:0 type="stream" channelId="-1", Rádio Nova  89.5 FM (Nova Friburgo / RJ)
+http://server2.webradios.com.br:9128/;
+#EXTINF:0 type="stream" channelId="-1", Rádio Cultura 103.3 FM (São Paulo / SP)
+https://radiocultura.jmvstream.com/stream
+#EXTINF:0 type="stream" channelId="-1", 96 FM 96.9 (Bauru/SP)
+https://streaming.ei3.com.br/radio/8000/mp3
+#EXTINF:0 type="stream" channelId="-1", Rádio Gaúcha 93.7 FM (Porto Alegre / RS)
+https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rádio Band 90.5 FM (Feira de Santana / BA)
+https://stream1.play.radio.br:8089/globofeira/globofeira/icecast.audio
+#EXTINF:0 type="stream" channelId="-1", Rádio da Universidade 1080 AM (Porto Alegre / RS)
+http://143.54.213.50:8000/stream.mp3
+#EXTINF:0 type="stream" channelId="-1", Rádio MEC 99.3 FM (Rio de Janeiro / RJ)
+https://radio2.lflr.com.br/ebc-live/radio-mec-fm/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rádio Paulo Freire 820 AM (Recife / PE)
+https://orelha.radiolivre.org/radiopaulofreire
+#EXTINF:0 type="stream" channelId="-1",Rádio  Nacional Amazônia Ondas Curtas 11.780 KHZ, 6.180 KHZ (Manaus / AM)
+https://radio2.lflr.com.br/ebc-live/radio-nacional-amazonia/playlist.m3u8
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Kids
+http://192.99.150.31:9431/;
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio MPB
+http://192.99.150.31:8775/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Bossa Nova
+http://177.124.130.10:9974/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Forró
+http://192.99.150.31:9019/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Pagode
+http://177.124.130.10:9061/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Anos 2000
+http://177.124.130.10:9940/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Sertanejo
+http://192.99.150.31:9485/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Funk
+http://192.99.150.31:9089/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Rock Clássico
+http://192.99.150.31:9125/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Lounge
+http://177.124.130.10:9064/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Pop Rock
+http://177.124.130.10:8016/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Roberto Carlos
+http://192.99.150.31:9137/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Anos 70
+http://192.99.150.31:8241/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Anos 80
+http://192.99.150.31:8697/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Anos 90
+http://192.99.150.31:8056/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Românticas
+http://192.99.150.31:8962/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Rap Nacional
+http://192.99.150.31:8377/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Rock Brasil
+http://14923.live.streamtheworld.com/CIDADEROCKBRASILAAC
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Eletrônica
+http://192.99.150.31:9095/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Festa
+http://177.124.130.10:9070/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Gospel
+http://192.99.150.31:9101/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Hip Hop
+http://192.99.150.31:8721/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Jazz
+http://192.99.150.31:8042/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Axé
+http://192.99.150.31:8305/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Brega
+http://192.99.150.31:9007/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Música Clássica
+http://177.124.130.10:9970/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio New Rock
+http://177.124.130.10:8028/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Reggae
+http://192.99.150.31:8715/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Sertanejo Universitário
+http://192.99.150.31:9191/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Pop Hits
+http://177.124.130.10:9046/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Metal
+http://177.124.130.10:9898/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Trilhas Sonoras
+http://177.124.130.10:9896/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Studio do Amor
+http://192.99.150.31:8962/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Historinha Infantil
+http://192.99.150.31:8371/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Trilhas Sonoras
+http://177.124.130.10:9896/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/TmycWPZ.png" tvg-name=""radio=true,Rádio Cachoeira AM
+http://centova.welltecnologia.com.br:8096/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/cvHzRir.png" tvg-name=""radio=true,Rádio Nova FM
+http://stm45.streamingbage.net.br:11454/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/55zvsZG.png" tvg-name=""radio=true,Rádio Clube Bagé AM
+http://stm7.streamingbage.net.br:16766/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/Ivdf27M.png" tvg-name=""radio=true,Rádio Alegria FM
+http://stream.ouveai.com.br:8061/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/rMmdaYl.png" tvg-name=""radio=true,Rádio Esperança AM
+http://200.175.79.171:8000/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/6sLoNZn.png" tvg-name=""radio=true,Rádio Itapema FM
+http://82747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/ita_poa.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/ClakDxW.png" tvg-name=""radio=true,Rádio Novo Tempo FM
+http://stream.novotempo.com:1935/radio/smil:rntPortoAlegreRS.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/8U3B3Lw.png" tvg-name=""radio=true,Rádio Guaíba FM/AM
+http://15122g.ha.azioncdn.net/5122g/_definst_/guaiba.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/dT8ZOeg.png" tvg-name=""radio=true,Rádio Atlântida FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/3ku6dPr.png" tvg-name=""radio=true,Rádio Band News FM
+http://evp.mm.uol.com.br:1935/bnewsfm_poa/_definst_/bnewsfm_poa/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/WZrYSBf.gif" tvg-name=""radio=true,Rádio Farroupilha FM/AM
+http://92747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/far_poa.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MlwaApi.jpg" tvg-name=""radio=true,Rádio Gaúcha FM/AM
+http://542747t.ls.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/gaucha_rbs.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/dZKe7DK.jpg" tvg-name=""radio=true,Rádio Bandeirantes FM/AM
+http://evp.mm.uol.com.br:1935/radioam_poa/_definst_/radioam_poa/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/jXGTFcR.png" tvg-name=""radio=true,Gr6 Explode FM
+http://216.245.204.227:8054/live
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/QhSS71Q.png" tvg-name=""radio=true,Rádio FM O Dia
+http://audio.bb07.upx.net.br:8058/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/rV5HHXO.png" tvg-name=""radio=true,Rádio Mix FM
+http://mixaac.crossradio.com.br:1100/live
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/NeJf46K.jpg" tvg-name=""radio=true,Rádio Coca Cola FM
+http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/x3j3rYJ.png" tvg-name=""radio=true,Rádio Mania FM
+http://radio.servercsi.com.br:8595/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/O9dknve.png" tvg-name=""radio=true,Rádio Transamerica FM
+http://transamerica.crossradio.com.br:9114/live.mp3
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/oRYDaYf.png" tvg-name=""radio=true,Rádio Jovem Pan FM
+http://centova6.ciclanohost.com.br:9256/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/IGzepM4.png" tvg-name=""radio=true,Rádio 99.5 FM
+http://srv6.zoeweb.tv:1935/serradourada/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/LZk3Bt6.png" tvg-name=""radio=true,Rádio 104 FM
+http://noasrv.caster.fm:10127/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/TKZ90g5.png" tvg-name=""radio=true,Rádio Eldorado FM
+http://noasrv.caster.fm:10136/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/XtpLtUe.png" tvg-name=""radio=true,Rádio Pampa FM
+http://noasrv.caster.fm:10128/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/ttPklRN.png" tvg-name=""radio=true,Rádio Liberdade FM
+http://noasrv.caster.fm:10129/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/OC6JEfB.png" tvg-name=""radio=true,Rádio Continental FM
+http://noasrv.caster.fm:10126/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/C79VBmi.png" tvg-name=""radio=true,Rádio Caiçara FM/AM
+http://noasrv.caster.fm:10130/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/Vshg5E2.png" tvg-name=""radio=true,Rádio Capão FM
+http://noasrv.caster.fm:10131/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/UIqr0bU.png" tvg-name=""radio=true,Rádio Praia FM
+http://noasrv.caster.fm:10132/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/9Pu8H7t.png" tvg-name=""radio=true,Rádio Grenal FM
+http://noasrv.caster.fm:10115/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/rEXCYFB.png" tvg-name=""radio=true,Rádio Tramandaí FM
+http://noasrv.caster.fm:10133/stream
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/n64bR7b.png" tvg-name=""radio=true,Rádio FM Premium
+http://noasrv.caster.fm:10125/stream
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/piuWrsL.png" tvg-name=""radio=true,Rádio Xangri-lá FM
+http://noasrv.caster.fm:10137/stream
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/I5y8DaH.png" tvg-name=""radio=true,Rádio Princesa FM
+http://noasrv.caster.fm:10124/stream
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/hC90L3k.png" tvg-name=""radio=true,Rádio Imbé FM
+http://noasrv.caster.fm:10135/stream
+#EXTINF: 0 type = "stream" channelId = "- 1", Jovem Pan 100,9 FM (São Paulo-SP)
+https://playerservices.streamtheworld.com/api/livestream-redirect/JP_SP_FMAAC_SC
+#EXTINF:0 type="stream" channelId="-1", Rádio Antena 1   FM  (São Paulo / SP)
+https://antenaone.crossradio.com.br/stream/1;
+#EXTINF:0 type="stream" channelId="-1", Rádio Difusora Acreana 1400 AM (Rio Branco / AC)
+http://streaming.omegasistemas.com.br:8722/stream
+#EXTINF:0 type="stream" channelId="-1", Rádio Alternativa  87.9FM (Acrelândia / AC)
+https://ssl.srvstm.com:7530/stream
+#EXTINF:0 type="stream" channelId="-1", Rádio Globo 98.1 FM (Rio de Janeiro / RJ)
+http://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
+#EXTINF:0 type="stream" channelId="-1", FM O DIA 100.5
+https://streaming.livespanel.com:20000/live
+#EXTINF:0 type="stream" channelId="-1", 94 FM 94.5 FM (Bauru/SP)
+https://centova.svdns.com.br:20148/stream
+#EXTINF:0 type="stream" channelId="-1", Rádio Record 1000 AM (São Paulo/SP)
+http://stm2.mestrestream.xyz:7098/stream
+#EXTINF:0 type="stream" channelId="-1", Transamérica 100.1 FM (São Paulo / SP)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac
+
+
