@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", RÃ¡dio Melodia 97.5 FM (Rio de Janeiro / RJ)
+https://playerservices.streamtheworld.com/api/livestream-redirect/MELODIAFMAAC.aac
+#EXTINF:0 type="stream" channelId="-1", RÃ¡dio Metropolitana 98.5 FM (SÃ£o Paulo / SP)
+https://ice.fabricahost.com.br/metropolitana985sp
+#EXTINF:0 type="stream" channelId="-1", RÃ¡dio Itatiaia 610 AM\\\\\\, 95.7 FM (Belo Horizonte/MG)
+http://8903.brasilstream.com.br:8903/stream
+#EXTINF:0 type="stream" channelId="-1", RÃ¡dio Clube 92.7 FM (Santo AntÃ´nio de Jesus / BA)
+http://paineldj.com.br:8674/live
+#EXTINF:0 type="stream" channelId="-1", RÃ¡dio Ferrari
+http://stm20.tecradio.com.br:8214/stream
+#EXTINF:0 type="stream" channelId="-1", RÃ¡dio CÃ¢mara QuixadÃ¡
+https://ssl.srvsh.com.br:7706/stream
 #EXTINF:0 type="stream" channelId="-1", Rádio Difusora Arco Íris 900 AM (Araputanga / MT)
 https://shout25.crossradio.com.br:18426/stream
 #EXTINF:0 type="stream" channelId="-1", Rádio Garça Branca 870 AM (Guiratinga / MT)
