@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", Rádio Play 99.9 FM (Uberlãndia / MG)
+https://cast4.hoost.com.br:20136/stream
+#EXTINF:0 type="stream" channelId="-1", Rádio Universitãria UNESP 105.7 FM (Bauru / SP)
+https://audio.tv.unesp.br/unespfm
+#EXTINF:0 type="stream" channelId="-1", Rádio Hot 107 FM (Lençóis Paulista / SP)
+http://shout35.crossradio.com.br:8116/stream
+#EXTINF:0 type="stream" channelId="-1", Rádio 105.5 FM (Parái­so do Tocantins / TO)
+https://cast2.hoost.com.br:20094/live
+#EXTINF:0 type="stream" channelId="-1", Rádio 93.1 Top FM (Arapoema / TO)
+https://ssl.streamproarte.com.br:7088/stream
+#EXTINF:0 type="stream" channelId="-1", Rádio AbreulÃ¢ndia 87.9 FM (AbreulÃ¢ndia / TO)
+https://sonicpanel.oficialserver.com:7129/stream
+#EXTINF:0 type="stream" channelId="-1", Rádio Cidade Verde 93.5 FM (Teresina / PI)
+http://192.99.35.31:8074/stream
+#EXTINF:0 type="stream" channelId="-1", Rádio Capital 77.5 FM\\\, 1040 AM (São Paulo / SP)
+https://ice.fabricahost.com.br/capitalfmsp
+#EXTINF:0 type="stream" channelId="-1", Rádio Brasil 106.7 FM (IcÃ³ / CE)
+http://stm2.jnbhost.com.br:7058/stream
 #EXTINF:0 type="stream" channelId="-1", Rádio Melodia 97.5 FM (Rio de Janeiro / RJ)
 https://playerservices.streamtheworld.com/api/livestream-redirect/MELODIAFMAAC.aac
 #EXTINF:0 type="stream" channelId="-1", Rádio Metropolitana 98.5 FM (São Paulo / SP)
