@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:0 type="stream" channelId="-1", 1
-https://hls-hw.xvideos-cdn.com:443/videos_new/hls/79/6e/0d/796e0dbcb04a06747d2d7062b57acb80/hls-720p-a6988.m3u8?e=1653162519&l=0&h=e7d89c6bf39fd5741f1db454f1f1db454f1
-#EXTINF:0 type="stream" channelId="-1", Item 2
-https://hls-hw.xvideos-cdn.com:443/videos/hls/b6/df/a2/b6dfa2e813254f5a17237b64b642b621/hls-1080p-8a822.m3u8?e=1653162599&l=0&h=effe279f6f3ff5a27a45d7d7d92970d
