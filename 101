@@ -1,4 +1,12 @@
+
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", TV Liberdade (Bagé-RS)
+https://video01.kshost.com.br/eberson8801/eberson8801/playlist.m3u8?t=1653613871
+#EXTINF:0 type="stream" channelId="-1", Singular TV (Cachoeira do Sul-RS)
+https://srv5.zcast.com.br/pedro3742/pedro3742/chunklist_w1947850789.m3u8
+#EXTINF:0 type="stream" channelId="-1", NDTV/Record TV (Florianópolis-SC)
+https://caikron.com.br:19360/floripa/floripa.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", RBI (São Paulo-SP)
 https://live-ak.vimeocdn.com:443/exp=1653058993~acl=%2Fe36c5dad-2e35-433b-99d7-cb0c7daa335b%2F%2A~hmac=a92e223e1cdb0ea262b25e435adc0a8e50c1e243372d2e875871fc63589d0687/e36c5dad-2e35-433b-99d7-cb0c7daa335b/chunklist_b5256000.m3u8?max_segments=10
 #EXTINF:0 type="stream" channelId="-1", RBC
