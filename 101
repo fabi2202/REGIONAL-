@@ -1,4 +1,8 @@
+
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", TV Câmara  Marília 
+https://m.youtube.com/watch?v=zbhqxOBD59s
+
 #EXTINF:0 type="stream" channelId="-1", TV Camara  (Piracicaba-SP)
 https://rr4---sn-uxaxh5g-bpbed.googlevideo.com/videoplayback?expire=1653921574&ei=xoKUYqnKBfL61sQPlKqF0Aw&ip=2804%3Ad41%3Ab05%3A11de%3A1855%3A7aef%3A340b%3Afe21&id=abaK69ei43I.1&itag=140&source=yt_live_broadcast&requiressl=yes&mh=Y6&mm=44%2C29&mn=sn-uxaxh5g-bpbed%2Csn-gpv7dne6&ms=lva%2Crdu&mv=u&mvi=4&pl=46&spc=4ocVC3A0_aRcj7IrKd-7gXO3OhFh3GyaPJhho1mfgg&vprv=1&live=1&hang=1&noclen=1&mime=audio%2Fmp4&ns=l-M2W6bnqR9pSW0pJffwtE0G&gir=yes&mt=1653897370&fvip=1&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=Y2jnQSKaLGX6pQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgN_CBKVenrZefB5pvjB80xbFT0auaFZkfhhHMWIlOZ9cCIFC3ETjEYkQjySG-vYTMuTYgOhZbrdeRYsfPQhsbQHKj&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AG3C_xAwRQIgdnz3PVKmvbYvyQg3e_srsZ50Yh2RuvTp-F83uHwSjyUCIQCRdXizFXwAK2uUtv_c1mJxIxqCJUTSyJIvUCek1sWLRQ%3D%3D&alr=yes&cpn=FHlfmhjceD33dE7Z&cver=1.20220525.01.00&sq=2804242&rn=8&rbuf=14685&pot=GpsBCm4WA1AtiKxLmwAE3j0gmAoDwxdPRdLGqvo5k4_5jjZhQHKOOBsK8OZOK6AZKmaJH9ntdqsSfQ4mv-9uLh7h8BUtvoiPX4kTLjsSAQ9MhHF-YPkkd2IB72rNBpob9Rg7ylU_w3FlVerI92ZTYS8WZhIpATwYQQ6lBYY9HAOcr_Qhgq7o6gw9azqj-jW_VQMD98SedWkXKup3Fpo=
 #EXTINF:0 type="stream" channelId="-1", TV Camara  (Sorocaba-SP)
