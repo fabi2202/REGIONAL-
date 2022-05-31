@@ -3,6 +3,8 @@
 https://youtu.be/PB77oVZczGI
 #EXTINF:0 type="stream" channelId="-1", CNN2
 https://www.youtube.com/c/CNNbrasil/live
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Brasil: notícias em português",CNN Brasil | YouTube
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CNNbrasil/live
 
 #EXTINF:0 type="stream" channelId="-1", TV Câmara  Marília 
 https://m.youtube.com/watch?v=zbhqxOBD59s
