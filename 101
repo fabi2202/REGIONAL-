@@ -1,11 +1,12 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1", CNN
-https://youtu.be/PB77oVZczGI
-#EXTINF:0 type="stream" channelId="-1", CNN2
-https://www.youtube.com/c/CNNbrasil/live
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Brasil: notícias em português",CNN Brasil | YouTube
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CNNbrasil/live
-
+#EXTINF:0 type="stream" channelId="-1", Agro Brasil TV
+https://server.flixtv.com.br:443/agrobrasiltv/agrobrasiltv/chunklist_w1792472012.m3u8
+#EXTINF:0 type="stream" channelId="-1", Agro Canal
+https://sba1.com/aovivo/agrocanal
+#EXTINF:0 type="stream" channelId="-1", TV Andradas
+https://caikron.com.br:19360/tvandradas/tvandradas.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Piauí Shop
+https://596639ebdd89b.streamlock.net/8036/8036/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Câmara  Marília 
 https://m.youtube.com/watch?v=zbhqxOBD59s
 #EXTINF:0 type="stream" channelId="-1", TV Camara  (Piracicaba-SP)
@@ -96,7 +97,6 @@ https://alanza.iptv2022.com:443/Rede_Sul_de_Televisao/tracks-v1a1/mono.m3u8
 https://alanza.iptv2022.com:443/REDE_LIVRE/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Metrópole/Rede Meio Norte
 https://alanza.iptv2022.com/RedeMetropole-ptbr/index.m3u8
-
 #EXTINF:0 type="stream" channelId="-1", TV Metropolitana Rio (Rio de Janeiro-RJ)
 https://alanza.iptv2022.com:443/METROPOLITANA_RIO/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Manchete (Paraiso do Tocantins-TO)
@@ -181,8 +181,6 @@ http://www.canal24horastv.com/
 http://www.freeintertv.com/view/id-3205/Brazil-1-0-1
 #EXTINF:0 type="stream" channelId="-1", TV Erga Omnes
 http://tvergaomnes.duckdns.org:8080/hls/ergaomnes.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Ceará
-https://player.jmvstream.com/avj/fut4x2uu9cx01mZ7Mb2pm7RXeDRW38
 #EXTINF:0 type="stream" channelId="-1", TV Lagos (MacaÃ©-RJ)
 https://video01.kshost.com.br/marcos1646/marcos1646/playlist.m3u8?t=1648389261
 #EXTINF:0 type="stream" channelId="-1", TV Sistec
