@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", TV Miramar/Rede Meio Norte
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Alese
+https://tvalese.al.se.leg.br:443/hls/tvalese/1_2/index.m3u8?sessId=766397
+#EXTINF:0 type="stream" channelId="-1", T Câmara Aracajú
+https://5aa7a31caf15d.streamlock.net:1939/live/cma/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Atalaia
+https://video.fbau2-1.fna.fbcdn.net/hvideo-ncg-vll/_nc_cat-107/_nc_sr_t-4/v/rYS7lpudmRpvVtC2jCLQr/_nc_ohc-D443AtJMSZYAX-_2-yn/live-dash/dash-lp-qd-v/5342544892480682_0-init.m4v?ms=m_CL&ccb=2-4&sc_t=1
+
+
 #EXTINF:0 type="stream" channelId="-1", Agro Brasil TV
 https://server.flixtv.com.br:443/agrobrasiltv/agrobrasiltv/chunklist_w1792472012.m3u8
 #EXTINF:0 type="stream" channelId="-1", Agro Canal
