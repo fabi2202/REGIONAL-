@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", Rádio Terra 1330 AM (SãoPaulo-SP)
+https://cloud1.cdnseguro.com:16020/stream
+#EXTINF:0 type="stream" channelId="-1", Rádio Terra Nativa 1360 AM (AssaÃ­ / PR)
+http://s01.transmissaodigital.com:7404/stream
+#EXTINF:0 type="stream" channelId="-1", Rádio  87.9 FM (Patos de Minas / MG)
+https://i9suaradio.com:7001/stream
+#EXTINF:0 type="stream" channelId="-1", Rádio Fan 99.7 FM (Aracaju / SE)
+http://69.30.202.98:7114/stream
 #EXTINF:0 type="stream" channelId="-1", Rádio Play 99.9 FM (Uberlãndia / MG)
 https://cast4.hoost.com.br:20136/stream
 #EXTINF:0 type="stream" channelId="-1", Rádio Universitãria UNESP 105.7 FM (Bauru / SP)
