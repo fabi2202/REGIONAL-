@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/hrOq719.png" group-title="Abertos",Rede América
+https://stmv1.samcast.com.br/redeamericatv/redeamericatv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="",Globo RJ
 http://186.227.63.210:5000/live/GLOBORJ/720p.m3u8
 #EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="",Globo SP
