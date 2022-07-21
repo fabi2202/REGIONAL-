@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/IiAxLai.png" group-title="",Classique TV 3
+https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="https://i.imgur.com/W3oI8p3.png" group-title="",Rede Vida
 http://45.232.196.7:5000/live/REDEVIDA/720p.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 24 Horas
