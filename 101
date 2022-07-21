@@ -657,8 +657,6 @@ https://edge-go-01.eduplay.rnp.br:443/media/ocp(r(uxqJWw)t(AAAAAAAAAAA)p(d(1V0)k
 https://srv3.zcast.com.br/novatv/novatv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", RTVM TV (Fortaleza-CE)
 https://srv2.zcast.com.br/rtvmc/rtvmc/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", 1001 Noites (Curitiba-PR)
-https://cdn.jmvstream.com:443/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_b1155072.m3u8
 #EXTINF:0 type="stream" channelId="-1", Aish Tv Brasil (Cabo Frio-RJ)
 https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
 8#EXTINF:0 type="stream" channelId="-1", Animax Brasil (Nazário-GO)
@@ -680,8 +678,6 @@ http://wowza.acessaradios.com.br:1935/canaldez/canaldez/chunklist_w814947861.m3u
 https://serv1.videovox.pw:443/associacaodasentidades3493/associacaodasentidades3493/chunklist_w1242663114.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal da Pecuária
 https://59f2354c05961.streamlock.net:1443/canalpecuaria/_definst_/canalpecuaria/chunklist_w866067172.m3u8
-#EXTINF:0 type="stream" channelId="-1", Canal Promessas (Goiânia-GO)
-https://video01.kshost.com.br/gente8322/gente8322/chunklist_w1016045675.m3u8
 #EXTINF:0 type="stream" channelId="-1", CATVE (Cultura)(Cascavel-PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1125213691.m3u8
 #EXTINF:0 type="stream" channelId="-1", Caxias TV(Duque de Caxias-RJ)
