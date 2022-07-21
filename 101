@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="1001Noites.br" tvg-logo="https://i.imgur.com/6CwuoZX.png" group-title="Televendas",1001 Noites
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/hrOq719.png" group-title="Abertos",Rede América
 https://stmv1.samcast.com.br/redeamericatv/redeamericatv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="",Globo RJ
