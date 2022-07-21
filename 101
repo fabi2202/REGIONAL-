@@ -1,7 +1,8 @@
 #EXTM3U
 
 
-
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/2cXaFN0.png" group-title="",Rede Mosaico
+http://cdn.connectbr.com.br/Mosaico/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/IiAxLai.png" group-title="",Classique TV 3
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/5KbMwQm.png" group-title="",Inspire
