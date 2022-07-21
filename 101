@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/V7MbBTq.png" group-title="",TV Altiora (Bragança Paulista-SP)
+https://video01.kshost.com.br:4443/fundacao4576/fundacao4576/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="RedeSuper.br" tvg-logo="https://i.imgur.com/dSBVerQ.png" group-title="",Rede Super (Belo Horizonte-MG)
 http://187.85.237.8:8825/ipvt_001
 #EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-logo="https://i.imgur.com/Pbv8zd3.png" group-title="",Rede Século 21
@@ -581,11 +585,8 @@ https://video01.kshost.com.br:4443/inside2133/inside2133/chunklist_w177982199.m3
 https://livefocamundo.com:8081/tvsetelagoas/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV AlagoNet (Alagoinhas-BA)
 https://stmv2.voxtvhd.com.br:443/alagonet/alagonet/chunklist_w824993112.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Altiora (Bragança Paulista-SP)
-https://video02.kshost.com.br:443/fundacao4576/fundacao4576/chunklist_w1572292938.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Alvorada Sertaneja (São Paulo-SP)
 http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
-
 #EXTINF:0 type="stream" channelId="-1", TV Aracati (Fortaleza-CE)
 https://livefocamundo.com:8081/tvaracati/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV 3 (Três Rios-RJ)
@@ -969,7 +970,7 @@ https://novo.bitstreaming.info:1936/8094/8094/chunklist_w183523663.m3u8
 https://cdn.jmvstream.com:443/w/LVW-8410/LVW8410_uiZOVm6vz1/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tv Assembléia Bahia(Salvador-BA)
 https://digilab.cds.ebtcvd.net:443/live-tvalba/stream/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Sim TV-Record News (Colatina-ES)
+#EXTINF:0 type="stream" channelId="-1", Sim TV/Record News (Colatina-ES)
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Sim (São Mateus-ES)
 https://5cf4a2c2512a2.streamlock.net:443/8236/8236/chunklist_w1317627783.m3u8
