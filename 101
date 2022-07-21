@@ -1,9 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="RedeSuper.br" tvg-logo="https://i.imgur.com/dSBVerQ.png" group-title="",Rede Super (Belo Horizonte-MG)
 http://187.85.237.8:8825/ipvt_001
-
-
-
+#EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-logo="https://i.imgur.com/Pbv8zd3.png" group-title="",Rede Século 21
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/2cXaFN0.png" group-title="",Rede Mosaico
 http://cdn.connectbr.com.br/Mosaico/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/IiAxLai.png" group-title="",Classique TV 3
