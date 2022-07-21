@@ -10,8 +10,7 @@ http://187.85.237.8:8825/ipvt_001
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/2cXaFN0.png" group-title="",Rede Mosaico
 http://cdn.connectbr.com.br/Mosaico/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/IiAxLai.png" group-title="",Classique TV3
-https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/5KbMwQm.png" group-title="",Inspire
 http://cdn.connectbr.com.br/Inspire/index.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="https://i.imgur.com/W3oI8p3.png" group-title="",Rede Vida
@@ -598,6 +597,8 @@ https://5d2c98775bafe.streamlock.net:443/8090/8090/chunklist_w1997000860.m3u8
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Classique TV 2
 https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/IiAxLai.png" group-title="",Classique TV 3
+https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Conec TV (Osasco-SP)
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 #EXTINF:0 type="stream" channelId="-1", Gospel  Music
