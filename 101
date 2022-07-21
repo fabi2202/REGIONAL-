@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/KmOaCXH.png" group-title="",CWB TV (Curitiba/PR)
+https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", 1001 Noites (Curitiba-PR)
 https://cdn.jmvstream.com:443/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_b4358144.m3u8
 
