@@ -18,8 +18,6 @@ https://tvalese.al.se.leg.br:443/hls/tvalese/1_2/index.m3u8?sessId=766397
 https://5aa7a31caf15d.streamlock.net:1939/live/cma/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Atalaia
 https://video.fbau2-1.fna.fbcdn.net/hvideo-ncg-vll/_nc_cat-107/_nc_sr_t-4/v/rYS7lpudmRpvVtC2jCLQr/_nc_ohc-D443AtJMSZYAX-_2-yn/live-dash/dash-lp-qd-v/5342544892480682_0-init.m4v?ms=m_CL&ccb=2-4&sc_t=1
-
-
 #EXTINF:0 type="stream" channelId="-1", Agro Brasil TV
 https://server.flixtv.com.br:443/agrobrasiltv/agrobrasiltv/chunklist_w1792472012.m3u8
 #EXTINF:0 type="stream" channelId="-1", Agro Canal
@@ -162,8 +160,6 @@ https://video01.kshost.com.br:4443/adilson8953/adilson8953/chunklist_w679624101.
 https://5cf4a2c2512a2.streamlock.net:443/dgrau/dgrau/chunklist_w1241492840.m3u8
 #EXTINF:0 type="stream" channelId="-1", BCC TV (São Paulo-SP)
 https://video01.kshost.com.br:4443/bccinternational523/bccinternational523/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Boa Vontade
-https://rr2---sn-oxunxg8pjvn-wujee.googlevideo.com/videoplayback?expire=1652385186&ei=QhF9Yv2JAfLp1AGk4JeoDQ&ip=2804%3A14c%3A5781%3A8680%3A88da%3A99e3%3A1c0f%3Ac9a0&id=Ql9ZDWkbI40.3&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=NJ&mm=44%2C29&mn=sn-oxunxg8pjvn-wujee%2Csn-bg07dnze&ms=lva%2Crdu&mv=m&mvi=2&pl=41&initcwndbps=1043750&spc=4ocVC7nevaL2oOtCm76WzMUq9nYC&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=8OsPaPN0K5CI29QXf5tMIuUG&gir=yes&mt=1652363319&fvip=1&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=nfuHW3GKyr3Nrg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhAKbHSBsn53ojf2MSBXkd8jQ-rNghE_DAyqx3p_uIlNi9AiAj7HBCD5fHBLVXNPAc3S6HqJcdLxowUt-e05pkFeNwmg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgLi3HJSdPuDMguveuOjPcAeRIemUBmaFqF5ltui9r7AICIEYu8ULWWNICRVv-gjt-DKaqh0hzl_Fzt0LsK8TlJXHJ&alr=yes&cpn=SOyyzRKgW-RclmoX&cver=1.20220510.01.00&headm=3&rn=1&rbuf=0
 #EXTINF:0 type="stream" channelId="-1", Canal TV Rio
 https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", CTV ( Sumaé-PB)
@@ -196,10 +192,6 @@ https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/chunklist_w1910639640
 https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", MultiTVA
 https://livefocamundo.com:8081/multitva/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", Canal 24 horas
-http://www.canal24horastv.com/
-#EXTINF:0 type="stream" channelId="-1", RIT
-http://www.freeintertv.com/view/id-3205/Brazil-1-0-1
 #EXTINF:0 type="stream" channelId="-1", TV Erga Omnes
 http://tvergaomnes.duckdns.org:8080/hls/ergaomnes.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Lagos (MacaÃ©-RJ)
@@ -262,8 +254,6 @@ https://59f1cbe63db89.streamlock.net:1443/tvcognopolis/_definst_/tvcognopolis/pl
 https://tv.domustelecom.com.br/media/n/BZiZode5y2GXndi0otaZ/a/playlist.m3u8?ch=BZiZode5y2GXndi0otaZ&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NDQxOTk4OTMsInN1YiI6Im1haW4ub3JnIzE2MTIwMDgxOTUiLCJpYXQiOjE2NDQxODU0OTN9.WLnUIJxrKtMkMpPuvjrYNcmLtGXYNMKu9Ws_eNhBJcI
 #EXTINF:0 type="stream" channelId="-1", ESA TV
 https://livefocamundo.com:8081/esatv/index.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Indefinido",RIT
-http://168.205.87.198:8555/live/leila/123456/168.ts?checkedby:iptvcat.com
 #EXTINF:0 type="stream" channelId="-1", TV Diversa/TV Brasil 
 https://hls.brasilstream.com.br/live/tvdiversa/tvdiversa/index.m3u8?token=5882573756041161000
 #EXTINF:0 type="stream" channelId="-1", AWTV (Porto Velho-RO)
@@ -336,8 +326,6 @@ https://livefocamundo.com:8081/simoes/tracks-v1a1/mono.m3u8
 https://hls.brasilstream.com.br/live/sitetv/sitetv/index.m3u8?token=6676632140763981000
 #EXTINF:0 type="stream" channelId="-1", Rede Universo (Vespasiano - MG)
 https://srv1.zcast.com.br:443/tvcanal1/tvcanal1/chunklist_w1115448139.m3u8
-#EXTINF:0 type="stream" channelId="-1", CWBTV (Curitiba-PR)
-https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", RCT/ComBrasil (Canoas-RS)
 https://59f1cbe63db89.streamlock.net:1443/rederct/_definst_/rederct/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Cidade (Rio Grande-RS)
@@ -697,8 +685,6 @@ http://189.14.233.254:1935/WebTV/WebTV.stream/chunklist_w622944574.m3u8
 https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/chunklist-480p.m3u8
 #EXTINF:-1 tvg-id="CulturaPara.br" tvg-name="Cultura Pará" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/5jPEI5c.png" group-title="",Cultura Pará (Belém-PA)
 http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
-#EXTINF:0 type="stream" channelId="-1", CWB TV (Curitiba-PR)
-https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Elemental Channel ( São Paulo-SP)
 https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Fala Litoral (Balneário Camboriú-SC)
