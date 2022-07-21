@@ -305,8 +305,6 @@ https://stmv1.srvif.com/washington/washington/playlist.m3u8
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Loading (São Paulo-SP)
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
-#EXTINF: 0 type = "stream" channelId = "- 1", Rede Web TV
-https://serv3.videovox.pw/alexandre8915/alexandre8915/playlist.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", TV Assembleia Alagoas (Maceió-AL)
 https://5c483b9d1019c.streamlock.net/staffvideotv/staffvideotv/playlist.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", TV Assembleia Paraíba ((João Pessoa-PB)
@@ -1256,8 +1254,6 @@ https://59f2354c05961.streamlock.net:1443/tvdasartes/_definst_/tvdasar live/stre
 #EXTINF:0 type="stream" channelId="-1", TV FAAP
 http://midiamobile.faap.br:80/faaplatamlive-
 .br:8080/hls/tvfloripa.m3u8
-
-
 #EXTINF:0 type="stream" channelId="-1", Tv Japi
 https://5d2c98775bafe.streamlock.net:443/8220/8220/chunklist_w1859648998.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Mondeiro
@@ -1290,7 +1286,7 @@ https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
 https://5c483b9d1019c.streamlock.net:443/8022/8022/chunklist_w1631242272.m3u8
 #EXTINF:0 type="stream" channelId="-1", TVC
 https://srv1.zcast.com.br:443/tvc/tvc/chunklist_w87523549.m3u8
-#EXTINF:0 type="stream" channelId="-1", TVC ( Bauru-SP)
+#EXTINF:0 type="stream" channelId="-1", TVC (Bauru-SP)
 https://59f2354c05961.streamlock.net:1443/tvbauru/_definst_/tvbauru/chunklist_w1529383847.m3u8
 #EXTINF:0 type="stream" channelId="-1", TVC (Petrópolis-RJ)
 https://stmv4.srvstm.com/tvc162/tvc162/playlist.m3u8?wowzasessionid=1510870863
