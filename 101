@@ -1,10 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="BoaVontadeTV.br" tvg-logo="https://i.imgur.com/BQo7liz.png" group-title="YouTube",Boa Vontade TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCedt33latJW7StRfdF4-1FQ/live
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/KmOaCXH.png" group-title="",CWB TV (Curitiba/PR)
 https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
-
 #EXTINF:0 type="stream" channelId="-1", 1001 Noites (Curitiba-PR)
 https://cdn.jmvstream.com:443/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_b4358144.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/hrOq719.png" group-title="Abertos",Rede América
 https://stmv1.samcast.com.br/redeamericatv/redeamericatv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="",Globo RJ
