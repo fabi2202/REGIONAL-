@@ -2,7 +2,8 @@
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/V7MbBTq.png" group-title="",TV Altiora (Bragança Paulista-SP)
 https://video01.kshost.com.br:4443/fundacao4576/fundacao4576/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jbCBogB.png" group-title="",TV da Gente
+https://stmv1.srvstm.com/jose3149/jose3149/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeSuper.br" tvg-logo="https://i.imgur.com/dSBVerQ.png" group-title="",Rede Super (Belo Horizonte-MG)
 http://187.85.237.8:8825/ipvt_001
 #EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-logo="https://i.imgur.com/Pbv8zd3.png" group-title="",Rede Século 21
@@ -1250,8 +1251,6 @@ http://209.126.127.101:1935/tvcidade/tvcidade/chunklist_w480711282.m3u8
 https://5c483b9d1019c.streamlock.net:443/8040/8040/chunklist_w1776211134.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Cidade Viva
 https://live.cdn.upx.com/kwjqp/smil:cidadeviva.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV da Gente
-https://595b85410a151.streamlock.net:443/tvdagenteoficial/tvdagenteoficial/chunklist_w652959603.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV das Artes
 https://59f2354c05961.streamlock.net:1443/tvdasartes/_definst_/tvdasar live/stream_480/chunklist_w417028793.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV FAAP
