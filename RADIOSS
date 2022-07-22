@@ -1,28 +1,28 @@
 
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1", RÃ¡dio Dumont 104.3 FM (JundiaÃ­ / SP)
+#EXTINF:0 type="stream" channelId="-1", Rádio Dumont 104.3 FM (JundiaÃ­ / SP)
 https://rrdns-dumont.webnow.com.br/dumont.aac
-#EXTINF:0 type="stream" channelId="-1", RÃ¡dio Cultura 1580 AM (Santos Dumont / MG)
+#EXTINF:0 type="stream" channelId="-1", Rádio Cultura 1580 AM (Santos Dumont / MG)
 http://stream.radioculturasd.com.br:3004/live
-#EXTINF:0 type="stream" channelId="-1", RÃ¡dio Aparecida 104.3 FM (Aparecida / SP)
+#EXTINF:0 type="stream" channelId="-1", Rádio Aparecida 104.3 FM (Aparecida / SP)
 https://aparecida.jmvstream.com/stream
-#EXTINF:0 type="stream" channelId="-1", RÃ¡dio Hits 99.7 FM (MacaÃ© / RJ)
+#EXTINF:0 type="stream" channelId="-1", Rádio Hits 99.7 FM (MacaÃ© / RJ)
 https://paineldj.com.br:20028/stream
-#EXTINF:0 type="stream" channelId="-1", RÃ¡dio Fan 99.7 FM (Aracaju / SE)
+#EXTINF:0 type="stream" channelId="-1", Rádio Fan 99.7 FM (Aracaju / SE)
 http://69.30.202.98:7114/stream
 #EXTINF:0 type="stream" channelId="-1", Radio Saudade 99.7 FM (Santos / SP)
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac?dist=radios.com.br
-#EXTINF:0 type="stream" channelId="-1", RÃ¡dio Kboing 100.3 FM (SÃ£o JosÃ© do Rio Preto / SP)
+#EXTINF:0 type="stream" channelId="-1", Rádio Kboing 100.3 FM (SÃ£o JosÃ© do Rio Preto / SP)
 https://stream.knbcdn.com.br/kboing-fm/kbostream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" size="Big", Radio Hawai 1590 AM (CapitÃ£o LeÃ´nidas Marques / PR)
 https://cast2.youngtech.radio.br/radio/8250/radio
-#EXTINF:0 type="stream" channelId="-1", RÃ¡dio Clube 1590 AM (Joinville / SC)
+#EXTINF:0 type="stream" channelId="-1", Rádio Clube 1590 AM (Joinville / SC)
 https://cast.youngtech.radio.br/radio/8160/radio
-#EXTINF:0 type="stream" channelId="-1", RÃ¡dio Itaporanga 100.9 FM (Itaporanga / PB)
+#EXTINF:0 type="stream" channelId="-1", Rádio Itaporanga 100.9 FM (Itaporanga / PB)
 https://shout25.crossradio.com.br:18200/live
-#EXTINF:0 type="stream" channelId="-1", RÃ¡dio Oeste da ParaÃ­ba 1000 AM (Cajazeiras / PB)
+#EXTINF:0 type="stream" channelId="-1", Rádio Oeste da ParaÃ­ba 1000 AM (Cajazeiras / PB)
 http://stm1.jnbhost.com.br:7050/stream
-#EXTINF:0 type="stream" channelId="-1", RÃ¡dio Ambiente (Caxias do Sul / RS)
+#EXTINF:0 type="stream" channelId="-1", Rádio Ambiente (Caxias do Sul / RS)
 http://server02.ouvir.radio.br:8050/stream
 #EXTINF:0 type="stream" channelId="-1", Rádio Difusora Pantanal 101.9 FM (Campo Grande/MS)
 http://servidor28.painelshoutcast.com.br:7004/stream
