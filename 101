@@ -1078,10 +1078,6 @@ https://5c483b9d1019c.streamlock.net:443/8202/8202/chunklist_w55160142.m3u8
 https://novo.bitstreaming.info:1936/tvvitoriape/tvvitoriape/chunklist_w2050958585.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Tropical 
 https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/chunklist_w2128632956.m3u8
-#EXTINF:0 type="stream" channelId="-1", Tv Osório News
-https://5d82644094cc0.streamlock.net/tvosorionews/tvosorionews/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Santa Cruz
-https://stmv6.srvstm.com:443/santacruztv9906/santacruztv9906/chunklist_w523663261.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Pogresso 
 https://novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Caravelas/ComBrasi (Ipatinga-MG)
@@ -1114,8 +1110,6 @@ https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV UFG/TV Brasil (Goiânia-GO)
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w1219179440_b1544100_sleng.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Estilo
-https://596639ebdd89b.streamlock.net:443/estilo/estilo/chunklist_w1286905761.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tribuna Livre TV
 https://5abdf4edae5bf.streamlock.net:443/tribunalivretv/tribunalivretv/chunklist_w1641608152.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Serra Verde
