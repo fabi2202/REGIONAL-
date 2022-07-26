@@ -1,6 +1,6 @@
 
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1", Tv em Foco Dos Vales (SabinÃ³polis-MG)
+#EXTINF:0 type="stream" channelId="-1", Tv em Foco Dos Vales (Sabinópolis-MG)
 https://5ad482a77183d.streamlock.net:443/tvemfocodosvales2013yahoo.com/tvemfocodosvales2013yahoo.com/chunklist_w1342690980.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Osório News (Osório-RS)
 https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
