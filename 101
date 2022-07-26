@@ -2,31 +2,31 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1", Tv em Foco Dos Vales (SabinÃ³polis-MG)
 https://5ad482a77183d.streamlock.net:443/tvemfocodosvales2013yahoo.com/tvemfocodosvales2013yahoo.com/chunklist_w1342690980.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV OsÃ³rio News (OsÃ³rio-RS)
+#EXTINF:0 type="stream" channelId="-1", TV Osório News (Osório-RS)
 https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Serra (Pombal-PB)
 https://serv3.videovox.pw:443/ivonildoferreiradasilva1063/ivonildoferreiradasilva1063/chunklist_w575805512.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Santa Cruz (Araraquara-SP)
 https://stmv1.srvstm.com:443/santacruztv9906/santacruztv9906/chunklist_w2098369138.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rede Web TV (TaiÃ³-SC)
-type="stream" channelId="-1", Rede Web TV (TaiÃ³-SC)
+#EXTINF:0 type="stream" channelId="-1", Rede Web TV (Taio-SC)
+type="stream" channelId="-1", Rede Web TV (Taio-SC)
 #EXTINF:0 type="stream" channelId="-1", Caravelas TV (Caravelas-BA)
 https://stmv1.srvif.com/adeildsontv/adeildsontv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Caravelas (Caravelas-BA)
 https://stmv.jnbhost.com.br:443/tvalagoinha/tvalagoinha/chunklist_w899081407.m3u8
-#EXTINF:0 type="stream" channelId="-1", Alternativa (IvaÃ­-PR)
+#EXTINF:0 type="stream" channelId="-1", Alternativa (Ivai-PR)
 https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Web Rezende (Palmital-PR)
 https://stmv1.duvoxtv.com.br/tvrzende/tvrzende/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Litoral (CapÃ£o da Canoa-RS)
+#EXTINF:0 type="stream" channelId="-1", TV Litoral (Capão da Canoa-RS)
 https://video01.kshost.com.br:4443/angelo2472/angelo2472/chunklist_w408622690.m3u8
 #EXTINF:0 type="stream" channelId="-1", Litoral TV (Fortaleza-CE)
 https://596639ebdd89b.streamlock.net/8048/8048/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Ceve (TaubatÃ©-SP)
+#EXTINF:0 type="stream" channelId="-1", TV Ceve (Taubaté-SP)
 https://cdn.jmvstream.com:443/w/AVJ-10735/playlist/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV ManÃ¡ Brasil
+#EXTINF:0 type="stream" channelId="-1", TV Maná ¡ Brasil
 https://w1.manasat.com:443/tvmana-brasil/smil:tvmana-brasil.smil/chunklist_w2058762485_b3048000_sleng.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Capital 777 (LucÃ©lia-SP)
+#EXTINF:0 type="stream" channelId="-1", TV Capital 777 (Lucélia-SP)
 https://stmv.webtv.ninjascast.com.br/tvcapital777/tvcapital777/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Capital (Fortaleza-CE)
 https://stmv1.srvif.com:443/rbc/rbc/chunklist_w1078903501.m3u8
