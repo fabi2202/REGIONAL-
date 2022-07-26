@@ -993,9 +993,7 @@ https://ngbvqmbygn.zoeweb.tv/alegolive/smil:alegolive.smil/playlist.m3u8
 https://cdn.jmvstream.com:443/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist_b1327104.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede CNT (Curitiba-PR)
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Cidade 10 (Santana do Livramento-RS)
-https://video-rvd-df-2.rnp.br:443/live/ocp(t(Fl0659t7_Ec)r(fVR9ug)a(vS7MuQ)p(d(2xc)k(q8Q)m(YaVy0p5AV4z7DSop4J5bkQ)n(a(IA1i3w)s(JDg)'a(5jK2bQ)s(aOk)))s(s(yOc)b(XGdOgp5b2viO2XwR4U3lzvi-1xTl5VdEhwS3GTSqdLnxZj2ZnWOfRl32ZDiizkA7cX9K23MgnN1FEvLthQ)'s(bug)b(f0XNw7nGl45sXHRoVg90uVcoIuhJNJsJCgoU94qBYYSVX0nQf7_Oo6I32yMLX99vpFMDYEH5GTgEk3T8nf6trGrMUMpkLb-O7v7f23YZ)'s(L2Y)b(6j7rfmVL))m(0))/28_index.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Folha do Vale 
+#EXTINF:0 type="stream" channelId="-1", TV Folha do Vale
 https://5d82644094cc0.streamlock.net/8006/8006/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Atividade-Rede Minas (Muriaé-MG)
 https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
