@@ -3,6 +3,7 @@
 https://cdn.jmvstream.com:443/w/AVJ-10657/playlist/chunklist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", TV Tribuna/SBT (Vitória-ES)
+Logo=”https://upload.wikimedia.org/wikipedia/commons/7/7b/TV_Tribuna_logo.png"
 https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLqlSWElr_t1yaM5pMVD19hesEwMPq3AUKe5GxArTGDzK)/dm/3/x82oa41/s/live-3.m3u8#cell=lnyc
 #EXTINF:0 type="stream" channelId="-1", TV Serra Verde (Frecheirinha-CE)
 https://cdn.jmvstream.com:443/w/AVJ-10557/playlist/chunklist.m3u8
