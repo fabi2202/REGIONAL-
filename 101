@@ -1001,7 +1001,7 @@ https://stmv1.duvoxtv.com.br/gamer/gamer/playlist.m3u8
 https://srv3.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Jundiaí (Jundiai-SP)
 https://stmv3.samcast.com.br/rosanaa9913/rosanaa9913/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Guarujá(Guarujá-SP)
+#EXTINF:0 type="stream" channelId="-1", TV Guarujá (Guarujá-SP)
 https://59e4b6c1beddc.streamlock.net/8138/8138/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Santa Maria (Santa Maria-RS)
 https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8
@@ -1014,20 +1014,18 @@ https://livefocamundo.com:8081/8034/tracks-v1a1/mono.m3u8
 https://srv5.zcast.com.br/bmtv/bmtv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Tupã (Cabo Frio-RJ)
 https://livefocamundo.com:8081/8134/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Vale do Uruará(Uruara-PA)
+#EXTINF:0 type="stream" channelId="-1", TV Vale do Uruará (Uruara-PA)
 https://srv3.zcast.com.br/valeradiowebtv/valeradiowebtv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Ouro
 https://eventials-i.akamaihd.net/hls/live/746370-b/uymfm3v51659vk7t/uymfm3v51659vk7t_source1612269728858/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Mares(Guarapari-ES)
+#EXTINF:0 type="stream" channelId="-1", TV Mares (Guarapari-ES)
 https://5c483b9d1019c.streamlock.net:443/8030/8030/chunklist_w721641655.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Nazarena(Nazaré-BA
+#EXTINF:0 type="stream" channelId="-1", TV Nazarena (Nazaré-BA
 https://stmv1.srvif.com/tvnaza/tvnaza/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Mar Rio Grande
 https://59f2354c05961.streamlock.net:1443/tvmarrg/_definst_/tvmarrg/chunklist_w1358524938.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Clássicos (São Paulo-SP)
 https://video01.kshost.com.br/jorge1313/jorge1313/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Sete Lagoas -MG
-https://livefocamundo.com:8081/8176/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Smart (Osasco-SP)
 https://5a57bda70564a.streamlock.net:443/smart/smart.sdp/chunklist_w1558145484.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Mega Brasil (São João da Barra-RJ)
@@ -1038,9 +1036,9 @@ https://5a1c76baf08c0.streamlock.net:443/familia/smil:familia.smil/chunklist_b16
 https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/chunklist_w681178787.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Mais Nordeste (Recife-PE)
 https://5eaa6849d0971.streamlock.net:443/tvmaisnordestetv/tvmaisnordestetv/chunklist_w281663373.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Web Agrotour(Porto Alegre-RS)
+#EXTINF:0 type="stream" channelId="-1", TV Web Agrotour (Porto Alegre-RS)
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Cidadã(Maceió-AL)
+#EXTINF:0 type="stream" channelId="-1", TV Cidadã (Maceió-AL)
 https://livefocamundo.com:8081/tvcidada/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV CN Agito (Maceió-AL)
 http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
@@ -1054,7 +1052,7 @@ https://cdn.jmvstream.com:443/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist_b
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Folha do Vale
 https://5d82644094cc0.streamlock.net/8006/8006/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Atividade-Rede Minas (Muriaé-MG)
+#EXTINF:0 type="stream" channelId="-1", TV Atividade/Rede Minas (Muriaé-MG)
 https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Sertão (Petrolina -PE)
 https://59f1cbe63db89.streamlock.net:1443/sertao/_definst_/sertao/chunklist_w137094240.m3u8
