@@ -964,7 +964,7 @@ https://srv2.zcast.com.br/oney7654/oney7654/playlist.m3u8
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede TV Mais (Cachoeiras de Macacu-RJ)
 https://novo.bitstreaming.info:1936/8010/8010/chunklist_w299019408.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Osasco-SP
+#EXTINF:0 type="stream" channelId="-1", TV Osasco/Com Brasil (Osasco-SP)
 https://596639ebdd89b.streamlock.net:443/8074/8074/chunklist_w396066601.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Mar (Maceió-AL)
 https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
@@ -981,7 +981,7 @@ https://cdn.jmvstream.com:443/w/LVW-8213/LVW8213_6Uc30uEIC7/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Web Tv Katurra (Franca-SP)https://stmv1.livevoxtv.com.br/franca1/franca1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Sosite (Várzea Paulista-SP)
 http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Tv I ( Petropolis-RJ)
+#EXTINF:0 type="stream" channelId="-1", Tv I (Petropolis-RJ)
 https://596639ebdd89b.streamlock.net/8038/8038/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tv Camara de Mogi Das Cruzes -SP
 https://5b01a3d32b65c.streamlock.net:1936/CMMC/CMMC/playlist.m3u8
