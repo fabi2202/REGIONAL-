@@ -24,7 +24,7 @@ https://5cf4a2c2512a2.streamlock.net/tvnovaesperanca/tvnovaesperanca/playlist.m3
 https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Assembleia MT (Cuiabá-MT)
 https://streaming.al.mt.gov.br/test/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV 7 Lagos (Sete Lagoas-MG)
+#EXTINF:0 type="stream" channelId="-1", TV 7 Lagoas (Sete Lagoas-MG)
 https://livefocamundo.com:8081/tvsetelagoas/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Tubá (Tubarão-SC)
 https://stmv1.voxtvhd.com.br/radiotvtuba/radiotvtuba/playlist.m3u8
@@ -686,8 +686,6 @@ http://177.74.174.57:8080/hls/tvsj.m3u8
 https://canal4stream.sidys.com.br/canal4.m3u8
 #EXTINF:0 type="stream" channelId="-1" size="Big", TVC 16 (Petrópolis-RJ)
 https://video01.kshost.com.br:4443/inside2133/inside2133/chunklist_w177982199.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV 7 Lagoas 
-https://livefocamundo.com:8081/tvsetelagoas/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV AlagoNet (Alagoinhas-BA)
 https://stmv2.voxtvhd.com.br:443/alagonet/alagonet/chunklist_w824993112.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Alvorada Sertaneja (São Paulo-SP)
