@@ -586,8 +586,6 @@ https://5c483b9d1019c.streamlock.net:443/8064/8064/playlist.m3u8
 https://hls.brasilstream.com.br/live/tvsalto/tvsalto/index.m3u8?fbclid=IwAR1_16UTp5gffYglWTQFpjd_mf6VubyfxwhWi5XXmgx7Bn1iWKHsirk6xuE
 #EXTINF: 0 type = "stream" channelId = "- 1", TV Sonata
 https://srv3.zcast.com.br/tiago3839/tiago3839/playlist.m3u8
-#EXTINF: 0 type = "stream" channelId = "- 1", TV Potengi / Rede UTV (Natal-RN)
-https://stmv4.samcast.com.br/jeova3318/jeova3318/playlist.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", TV RS Cidades
 https://video01.kshost.com.br/angelo4200/angelo4200/playlist.m3u8?t=1635101521
 #EXTINF: 0 type = "stream" channelId = "- 1", MAIS TV
@@ -824,7 +822,7 @@ https://59f1cbe63db89.streamlock.net:1443/hotflix/_definst_/hotflix/chunklist_w7
 https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/chunklist_w470918316.m3u8
 #EXTINF:0 type="stream" channelId="-1", ITV (Itu-SP)
 http://wse01.logicahost.com.br:1935/itutv/_definst_/itutv/chunklist_w1393574519.m3u8
-#EXTINF:-1 tvg-id="mundialcom.br" tvg-name="KISS TV" tvg-country="BR" tvg-language="Portuguese;English" tvg-logo="https://i.imgur.com/GXJggrb.png" group-title=" ",KISS TV ( São Paulo-SP)
+#EXTINF:-1 tvg-id="mundialcom.br" tvg-name="KISS TV" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/GXJggrb.png" group-title=" ",KISS TV ( São Paulo-SP)
 #EXTINF:0 type="stream" channelId="-1", Kuriakos Cine (Portugal)
 http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Kuriakos kids (Portugal)
@@ -1067,7 +1065,7 @@ https://59f1cbe63db89.streamlock.net:1443/sertao/_definst_/sertao/chunklist_w137
 https://5c483b9d1019c.streamlock.net:443/tvado/tvado/chunklist_w1258511865.m3u8
 #EXTINF:0 type="stream" channelId="-1", Semear TV (Teresina-PI)
 https://novo.bitstreaming.info:1936/semeartvstation/semeartvstation/chunklist_w227401884.m3u8
-#EXTINF:-1 tvg-id="TVALMG.br" tvg-name="TV ALMG" tvg-   country="BR" tvg-language="" tvg-logo="" group-title=" ",TV ALMG
+#EXTINF:-1 tvg-id="TVALMG.br" tvg-name="TV ALMG" tvg-   country="" tvg-language="" tvg-logo="" group-title=" ",TV ALMG
 http://streaming.almg.gov.br:80/live/tvalmg.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tv Viva De Confissão Reformada (Salvador-BA)
 https://stmv2.voxtvhd.com.br:443/12009/12009/chunklist_w1045269585.m3u8
@@ -1113,7 +1111,7 @@ https://5cf4a2c2512a2.streamlock.net/tvdopovo1/tvdopovo1/playlist.m3u8
 https://596639ebdd89b.streamlock.net/8114/8114/chunklist_w287122639.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Mais
 https://596639ebdd89b.streamlock.net/8040/8040/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rede UTV (Descalvado-SP)
+#EXTINF:0 type="stream" channelId="-1", TV Descalvado (Descalvado-SP)
 https://srv4.zcast.com.br:443/redetvoficial/redetvoficial/chunklist_w996581987.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Precabura (Fortaleza-CE)
 http://srv1.zcast.com.br:80/tvprecabura/tvprecabura/chunklist_w677928792.m3u8
