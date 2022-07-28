@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" logo="https://spaceks.net/sites/tvomindare.tv.br/images/logo/logo_638312003.png" background="https://spaceks.net/sites/tvomindare.tv.br/images/logo/logo_638312003.png", TV Estilo
-https://cdn.jmvstream.com:443/w/AVJ-10657/playlist/chunklist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" tvg-country="55", TV Brasil Central/TV Cultura (Goiânia-GO)
 https://5a1c76baf08c0.streamlock.net:443/tbc/tbc/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Verdes Campos (Teresina-PI)
