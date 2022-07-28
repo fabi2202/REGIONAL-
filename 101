@@ -1,5 +1,10 @@
-6#EXTM3U
-
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", TVC/TV Gazeta (Araçatuba-SP)
+https://5ad482a77183d.streamlock.net:443/financeirotvc21.com.br/financeirotvc21.com.br/chunklist_w1123827605.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVC Rio (Rio de Janeiro-RJ)
+https://video01.logicahost.com.br:443/comunitariario/comunitariario/chunklist_w1437074839.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVC Brasil (São Leopoldo-RS)
+https://srv1.zcast.com.br:443/tvc/tvc/chunklist_w209340864.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-country="55", TV Brasil Central/TV Cultura (Goiânia-GO)
 https://5a1c76baf08c0.streamlock.net:443/tbc/tbc/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Verdes Campos (Teresina-PI)
@@ -899,7 +904,7 @@ https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/playlist.
 https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMAX.br" tvg-name="TV MAX" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="",TV Max (Rio de Janeiro-RJ)
 https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMon.br" tvg-name="TV Mon" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/j7EJvHr.png" group-title="",TV Mon (720p)
+#EXTINF:-1 tvg-id="TVMon.br" tvg-name="TV Mon" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/j7EJvHr.png" group-title="",TV Mon (720p)
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/8078/8078/playlist.m3u8
 #EXTINF:-1 tvg-id="TV PaiEterno.br" tvg-name="TV Pai Eterno" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png" group-title="",TV Pai Eterno (Trindade-GO)
@@ -1239,8 +1244,6 @@ http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TVBE/TV Brasil (Joinville-SC)
 https://5c483b9d1019c.streamlock.net:443/8022/8022/chunklist_w1631242272.m3u8
-#EXTINF:0 type="stream" channelId="-1", TVC
-https://srv1.zcast.com.br:443/tvc/tvc/chunklist_w87523549.m3u8
 #EXTINF:-1 tvg-id="TVEBahia.br" tvg-name="TVE Bahia" tvg-country="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/800px-TVE_Bahia_logo.svg.png" group-title=" ",TVE (TV Cultura) (Salvador-BA)
 #EXTINF:-1 tvg-id="TVERS.br" tvg-name="TVE RS" tvg-country="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png" group-title=" ",TVE/TV Brasil(Santa Tereza-RS)
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
