@@ -1038,14 +1038,11 @@ https://5a1c76baf08c0.streamlock.net:443/familia/smil:familia.smil/chunklist_b16
 https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/chunklist_w681178787.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Mais Nordeste (Recife-PE)
 https://5eaa6849d0971.streamlock.net:443/tvmaisnordestetv/tvmaisnordestetv/chunklist_w281663373.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV C/TV Gazeta (Araçatuba-SP)
-https://5ad482a77183d.streamlock.net:443/financeirotvc21.com.br/financeirotvc21.com.br/chunklist_w95433986.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Web Agrotour(Porto Alegre-RS)
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
-
 #EXTINF:0 type="stream" channelId="-1", TV Cidadã(Maceió-AL)
 https://livefocamundo.com:8081/tvcidada/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV CN Agito(Maceió-AL)
+#EXTINF:0 type="stream" channelId="-1", TV CN Agito (Maceió-AL)
 http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tv Assembléia Paraiba
 http://200.164.225.175/hls/tvalpb.m3u8
@@ -1059,7 +1056,7 @@ https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
 https://5d82644094cc0.streamlock.net/8006/8006/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Atividade-Rede Minas (Muriaé-MG)
 https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Sertão     (Petrolina -PE)
+#EXTINF:0 type="stream" channelId="-1", TV Sertão (Petrolina -PE)
 https://59f1cbe63db89.streamlock.net:1443/sertao/_definst_/sertao/chunklist_w137094240.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV ADO
 https://5c483b9d1019c.streamlock.net:443/tvado/tvado/chunklist_w1258511865.m3u8
