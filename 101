@@ -934,7 +934,7 @@ https://r2---sn-bg0eznls.c.2mdn.net/videoplayback/id/8064af859c51c004/itag/346/s
 https://video02.kshost.com.br/elton3601/elton3601/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Germana (Lagoa do Mato-MA)
 https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Grande Natal l(Natal-RN)
+#EXTINF:0 type="stream" channelId="-1", TV Grande Natal (Natal-RN)
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 #EXTINF:0 type="stream" channelId="-1", SUL TV (Torres-RS)
 https://5cf4a2c2512a2.streamlock.net:443/sultv/sultv/chunklist_w1513219894.m3u8
