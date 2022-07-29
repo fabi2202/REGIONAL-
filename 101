@@ -1,4 +1,31 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", TV Jundiaí Hoje (Jundiaí-SP)
+https://stmv2.samcast.com.br:443/rosanaa9913/rosanaa9913/chunklist_w1495898293.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tela Viva TV (Rio de Janeiro-RJ)
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Ibiapabana (São Benedito-CE)
+https://stmv1.duvoxtv.com.br:443/gamer/gamer/chunklist_w177155108.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Velhacap/TV Brasil Web (São Cristóvão-SE)
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLuAYdB-JSmcrzCMhe57Ge_Hdwcqf5d8ijl0uyGk9ShsL)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
+#EXTINF:0 type="stream" channelId="-1", TSPB (João Pessoa-PB)
+https://serv2.videovox.pw/tvtony/tvtony/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Catedral do Rock TV (Petrópolis-RJ)
+https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Sosite (Várzea Paulista-SP)
+https://v8.ciclano.io:1443/tvinterlagos/_definst_/tvinterlagos/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Balcão (Belo Horizonte-MG)
+https://cdn.jmvstream.com:443/w/AVJ-10760/playlist/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Rosa de Saron (Alagoinhas-BA)
+https://stmv3.voxtvhd.com.br/rosadesaron/rosadesaron/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Capital ( Teresina-PI)
+https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV A Folha (Palmas-PR)
+https://video01.logicahost.com.br:443/tvafolha/tvafolha/chunklist_w1845576496.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Nazaré (Belém-BA)
+https://fundacaonazare.com.br/tv-nazare
+#EXTINF:0 type="stream" channelId="-1", Classique TV Séries 
+https://stmv1.srvif.com/classeries/classeries/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", TV Potengi (Natal-RN)
 https://stmv1.samcast.com.br/jeova3318/jeova3318/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Viana (Matinhos-PR)
@@ -945,45 +972,21 @@ https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/8078/8078/playlist.m3u8
 #EXTINF:-1 tvg-id="TV PaiEterno.br" tvg-name="TV Pai Eterno" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png" group-title="",TV Pai Eterno (Trindade-GO)
 https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPampaRedeTVRS.br" tvg-name="TV Pampa - RedeTV! RS" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/afeOjrn.png" group-title="",TV Pampa - RedeTV! RS 
+#EXTINF:-1 tvg-id="TVPampaRedeTVRS.br" tvg-name="TV Pampa/RedeTV RS" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/afeOjrn.png" group-title="",TV Pampa/RedeTV RS 
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSERIES.br" tvg-name="TV SERIES" tvg-country="BR" tvg-language="" tvg-logo="https://image.winudf.com/v2/image/Y29tLnR2c2VyaWVzLmdyYXRpc19zY3JlZW5fMF8xNTEzODc0NTE1XzA2OA/screen-0.jpg?fakeurl=1&type=.jpg" group-title=" ",TV SERIES (480p)
-https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-name="TV Terceiro Anjo" tvg-country="" tvg-language="" tvg-logo="https://www.terceiroanjo.com/static/img/logo-2019-gif.gif" group-title=" ",TV Terceiro Anjo
-https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV UM (Alagoinha-PE)
-https://59f2354c05961.streamlock.net:1443/tvumdigital/_definst_/tvumdigital/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV UNISANTOS (Santos-SP) http://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Nazaré (Belém-PA)
-https://r2---sn-bg0eznls.c.2mdn.net/videoplayback/id/8064af859c51c004/itag/346/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3767019448/sparams/acao,ctier,expire,id,ip,ipbits,itag,mh,mip,mm,mn,ms,mv,mvi,pl,source/signature/806F8F840CB808783EDC0D978F7BD3A46BE56613.37DE3E61CCE0F43CBBC0CD0FE968B28AC365FD7D/key/cms1/cms_redirect/yes/mh/4l/mip/2804:431:c7e7:bf95:7062:e06f:1a0e:fd8e/mm/42/mn/sn-bg0eznls/ms/onc/mt/1622813564/mv/m/mvi/2/pl/48/file/file.mp4
-#EXTINF:0 type="stream" channelId="-1", TV A Folha (Palmas-PR)
-https://video02.kshost.com.br/elton3601/elton3601/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Germana (Lagoa do Mato-MA)
 https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Grande Natal (Natal-RN)
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 #EXTINF:0 type="stream" channelId="-1", SUL TV (Torres-RS)
 https://5cf4a2c2512a2.streamlock.net:443/sultv/sultv/chunklist_w1513219894.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Capital (Teresina-PI)
-https://stmv3.samcast.com.br/tvcapitalteresina/tvcapitalteresina/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Pantanal (Campo Grande-MS)
 https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/chunklist_w1567406741.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Votuline (Votuporanga-SP)
 https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Alagoinha-PB
-http://stmv6.srvstm.com:80/tvalagoinha/tvalagoinha/chunklist_w38746927.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Ivaí (Ivaí-PR)
-https://stmv3.samcast.com.br:443/alternativatvivainova/alternativatvivainova/chunklist_w1033252454.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Mares
-https://5c483b9d1019c.streamlock.net:443/8030/8030/chunklist_w721641655.m3u8
-#EXTINF:0 type="stream" channelId="-1", Tv Juruá
-https://v3.ciclano.io:1443/radioejurua/_definst_/radioejurua/chunklist_w1198357939.m3u8z
-#EXTINF:0 type="stream" channelId="-1", TV Recon Sat
-https://stmv1.srvif.com/tvreconsat/tvreconsat/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV São Raimundo
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Balcão
-https://cdn.jmvstream.com:443/w/AVJ-9028/playlist/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Montanha (São Paulo-SP)
 https://srv2.zcast.com.br/oney7654/oney7654/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TCM (Mossoró-RN)
@@ -1004,31 +1007,8 @@ https://596639ebdd89b.streamlock.net:443/datavideo01/datavideo01/chunklist_w1603
 https://cdn.jmvstream.com:443/w/LVW-8213/LVW8213_6Uc30uEIC7/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Camara Jacareí -SPhttp://179.109.16.5:1935/tvcamarajacarei/aovivo/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Camara Campinas-SPhttps://5cf4a2c2512a2.streamlock.net/tvcamara/tvcamara/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Web Tv Katurra (Franca-SP)https://stmv1.livevoxtv.com.br/franca1/franca1/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Sosite (Várzea Paulista-SP)
-http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Tv I (Petropolis-RJ)
-https://596639ebdd89b.streamlock.net/8038/8038/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Tv Camara de Mogi Das Cruzes -SP
-https://5b01a3d32b65c.streamlock.net:1936/CMMC/CMMC/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tv Tremembé (Itarema-CE)
 https://5e36c064a2f6a.streamlock.net:1936/8380/8380/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV TSPB (João Pessoa-PB)
-https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Câmara Juiz de Fora
-https://cdn.jmvstream.com/w/LVW-8569/LVW8569_QGSx6ncYzr/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV VelhaCap ( São Cristóvão-SE)
-https://srv3.zcast.com.br/cleto6155/cleto6155/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Tupi (Vera Cruz-Ba)
-https://stmv1.srvif.com/redetupi/redetupi/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Tv Ibiapabana (São Benedito-CE)
-https://stmv1.duvoxtv.com.br/gamer/gamer/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Tela Viva (Rio de Janeiro-RJ)
-https://srv3.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Jundiaí (Jundiai-SP)
-https://stmv3.samcast.com.br/rosanaa9913/rosanaa9913/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Guarujá (Guarujá-SP)
-https://59e4b6c1beddc.streamlock.net/8138/8138/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Santa Maria (Santa Maria-RS)
 https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", BMTV (Goiania-GO)
