@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", ULB TV
+https://srv1.zcast.com.br:443/ulbtv/ulbtv/chunklist_w870653122.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", TV Jundiaí Hoje (Jundiaí-SP)
 https://stmv2.samcast.com.br:443/rosanaa9913/rosanaa9913/chunklist_w1495898293.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tela Viva TV (Rio de Janeiro-RJ)
