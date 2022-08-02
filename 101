@@ -3,7 +3,7 @@
 https://video01.logicahost.com.br:443/tvjornaldonordeste/tvjornaldonordeste/chunklist_w1333222479.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Mackenzie (São Paulo-SP)
 https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV MON (Montenegro)
+#EXTINF:0 type="stream" channelId="-1", TV MON (Montenegro-RS)
 https://srv1.zcast.com.br:443/tvmon/tvmon/chunklist_w513104014.m3u8
 #EXTINF:0 type="stream" channelId="-1", ULB TV
 https://srv1.zcast.com.br:443/ulbtv/ulbtv/chunklist_w870653122.m3u8
