@@ -1,7 +1,12 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", TV Jornal do Nordeste (Belém-PB)
+https://video01.logicahost.com.br:443/tvjornaldonordeste/tvjornaldonordeste/chunklist_w1333222479.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Mackenzie (São Paulo-SP)
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV MON
+https://srv1.zcast.com.br:443/tvmon/tvmon/chunklist_w513104014.m3u8
 #EXTINF:0 type="stream" channelId="-1", ULB TV
 https://srv1.zcast.com.br:443/ulbtv/ulbtv/chunklist_w870653122.m3u8
-
 #EXTINF:0 type="stream" channelId="-1", TV Jundiaí Hoje (Jundiaí-SP)
 https://stmv2.samcast.com.br:443/rosanaa9913/rosanaa9913/chunklist_w1495898293.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tela Viva TV (Rio de Janeiro-RJ)
