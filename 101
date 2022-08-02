@@ -155,8 +155,6 @@ https://w1.manasat.com:443/tvmana-brasil/smil:tvmana-brasil.smil/chunklist_w2058
 https://stmv.webtv.ninjascast.com.br/tvcapital777/tvcapital777/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Capital (Fortaleza-CE)
 https://stmv1.srvif.com:443/rbc/rbc/chunklist_w1078903501.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Capital ( Teresina-PI)
-https://stmv2.samcast.com.br:443/tvcapitalteresina/tvcapitalteresina/chunklist_w2042716040.m3u8
 #EXTINF:0 type="stream" channelId="-1", TVE/TV Brasil (Salvador-BA)
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Omindaré
@@ -453,8 +451,6 @@ https://stmv1.srvif.com/antoniomarcosde5801/antoniomarcosde5801/playlist.m3u8
 https://video02.kshost.com.br/cesar9428/cesar9428/playlist.m3u8?t=1641823222
 #EXTINF:0 type="stream" channelId="-1", TV Arapuan/RedeTV
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wBGFNXG.png" group-title="", Tele Web TV
-https://video02.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/4fsI8pJ.png" group-title="", PPZ TV
 https://5c483b9d1019c.streamlock.net/8058/8058/chunklist_w1002170053.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5aKFdDR.png" group-title="", Allegro TV
@@ -567,10 +563,6 @@ https://video01.kshost.com.br:4443/seap8272/seap8272/chunklist_w1457720581.m3u8
 http://177.23.210.22:8060/tvurbana/video.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", UrbanTV (Florianópolis-SC)
 https://5ad482a77183d.streamlock.net/urbantvstreaminggmail.com/urbantvstreaminggmail.com/playlist.m3u8
-#EXTINF: 0 type = "stream" channelId = "- 1", TV Mon (Montenegro-RS)
-https://hls.brasilstream.com.br/live/tvmon/tvmon/index.m3u8?token=7996199375706724000
-#EXTINF:-1 tvg-id="982" tvg-name="Teleweb TV" tvg-logo="https://www.m3u.cl/logo/982_Teleweb_TV.png", Teleweb TV * | BR
-https://video02.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="563" tvg-name="TV Universal" tvg-logo="https://www.m3u.cl/logo/563_TV_Universal.jpg", TV Universal | BR
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?PlaylistM3UCL
 #EXTINF: 0 type = "stream" channelId = "- 1", Inova TV / Rede TV ( Manaus - AM)
