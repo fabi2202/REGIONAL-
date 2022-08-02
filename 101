@@ -182,7 +182,7 @@ https://video01.kshost.com.br:4443/fundacao4576/fundacao4576/playlist.m3u8
 https://stmv1.srvstm.com/jose3149/jose3149/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeSuper.br" tvg-logo="https://i.imgur.com/dSBVerQ.png" group-title="",Rede Super (Belo Horizonte-MG)
 http://187.85.237.8:8825/ipvt_001
-#EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-logo="https://i.imgur.com/Pbv8zd3.png" group-title="",Rede Século 21
+#EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-logo="https://i.imgur.com/Pbv8zd3.png" group-title="",Rede Século 21 (Valinhos-SP)
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/2cXaFN0.png" group-title="",Rede Mosaico
 http://cdn.connectbr.com.br/Mosaico/index.m3u8
@@ -735,13 +735,11 @@ https://stmv1.srvstm.com:443/luis5346/luis5346/chunklist_w1683926974.m3u8
 https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1944295461.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Encauca (Fortaleza-CE)
 https://srv1.painelvideo.com/encaucafm/encaucafm/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rede  Paulistana ( Americana-SP)
+#EXTINF:0 type="stream" channelId="-1", Rede  Paulistana (Americana-SP)
 https://596639ebdd89b.streamlock.net/8112/8112/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Premium (Osasco-SP)
 https://5c483b9d1019c.streamlock.net:443/8066/8066/chunklist_w470656896.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rede Século 21 (Valinhos-SP)
-https://cdn.jmvstream.com:443/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b130900.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV União ( Natal-RN)
+#EXTINF:0 type="stream" channelId="-1", TV União (Natal-RN)
 https://j78dpx4jyq5r-hls-live.5centscdn.com:443/tvuniao/6b517d4134797cf29f129240def46bba.sdp/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" aspect-ratio="1,85:1", TV São José  (Florianópolis-SC)
 http://177.74.174.57:8080/hls/tvsj.m3u8
