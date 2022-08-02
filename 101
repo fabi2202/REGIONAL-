@@ -561,7 +561,7 @@ https://livefocamundo.com:8081/tvsudoeste/index.m3u8
 https://video01.logicahost.com.br:443/blitstv/blitstv/chunklist_w26905352.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", Q TAL? Channel
 https://video01.logicahost.com.br:443/qtalchannel/qtalchannel/chunklist_w544216001.m3u8
-#EXTINF: 0 type = "stream" channelId = "- 1", Rede QDM 2
+#EXTINF: 0 type = "stream" channelId = "- 1", Rede QDM 2 (Hortolândia-SP)
 https://video01.logicahost.com.br/tvkidmais/tvkidmais/playlist.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", UNITV (Porto Alegre-RS)
 http://unitvaovivo.ufrgs.br:8080/live.ogg
@@ -725,7 +725,7 @@ https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
 https://58a4464faef53.streamlock.net:443/interteve/ngrp:interteve_all/chunklist_w1906805613_b4227072.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Mundial (São Paulo-SP)
 https://58a4464faef53.streamlock.net:443/impd/ngrp:impd_all/chunklist_w923889351_b796000.m3u8
-#EXTINF:0 type="stream" channelId="-1", NTV ( Patos de Minas-MG)
+#EXTINF:0 type="stream" channelId="-1", NTV (Patos de Minas-MG)
 https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/chunklist_w1759426003.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Verdade
 https://r9---sn-8p8v-bg0k.googlevideo.com/videoplayback?expire=1633984005&ei=pUlkYeXVD4LFwgS6nam4Ag&ip=2804%3A431%3Ac7e6%3Ab10d%3A2cea%3Ad341%3Afe85%3A4bd&id=-t62fBLFGd8.1&itag=243&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=yt_live_broadcast&requiressl=yes&mh=hG&mm=44%2C29&mn=sn-8p8v-bg0k%2Csn-bg0ezn7e&ms=lva%2Crdu&mv=m&mvi=9&pcm2cms=yes&pl=48&initcwndbps=552500&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=mskcAR-gDBR4t_dI0mxSfi4G&gir=yes&mt=1633962037&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=QHCxMiPLahJbNQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgSt-qkVGY0UTqbeeqmMNRwekJ2mhQtErwupR0EifdtfICIFUfZJkJ_ZOHe0dmAo-x1A6tSLsVB7MCyrnH23UY3sg3&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgbExBzJ5xKx-hfI2MLzrEHuFr8MpTHhwPpATo2k16gI0CIQCWuP55NG9DT-t6xTfonwruvDrcMMyxLLSEe7HVFQ4mbg%3D%3D&alr=yes&cpn=_a0lFrIhQs3AX9ui&cver=1.20211006.1.0&sq=462081&rn=13&rbuf=4879
@@ -919,7 +919,7 @@ http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 https://flussonic-tv.jupiter.com.br:443/portalativo/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Primer TV (São José-SC)
 http://200.194.238.229:8383/live/primer/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rede QDM
+#EXTINF:0 type="stream" channelId="-1", Rede QDM (Hortolândia-SP)
 https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/chunklist_w1464357190.m3u8
 #EXTINF:-1 tvg-id="RecordTVNatalTVTropical.br" tvg-name="RecordTV Natal - TV Tropical" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title=" ",RecordTV Natal - TV Tropical
 https://59f2354c05961.streamlock.net:1443/tvtropical/tvtropical/playlist.m3u8
