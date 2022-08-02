@@ -1,11 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/heBR3kT.png" group-title="Abertos",TV Escola
 http://187.85.237.8:8825/ipvt_002
-
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/heBR3kT.png" group-title="Abertos",TV Escola
-https://pekchannels.proxy.jotafplay.com.br/TV_Escola/index.m3u8?token=2yTiEwT8EueJrNj3JOTAFZ
-
-
 #EXTINF:0 type="stream" channelId="-1", TV Jornal do Nordeste (Belém-PB)
 https://video01.logicahost.com.br:443/tvjornaldonordeste/tvjornaldonordeste/chunklist_w1333222479.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Mackenzie (São Paulo-SP)
