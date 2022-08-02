@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", TV Diário (Fortaleza-CE)
+https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTeNyHcUVcEs_W_stdQj8hJRP-sSEBnM8OxnSfDKrnZv)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/heBR3kT.png" group-title="Abertos",TV Escola
 http://187.85.237.8:8825/ipvt_002
 #EXTINF:0 type="stream" channelId="-1", TV Jornal do Nordeste (Belém-PB)
